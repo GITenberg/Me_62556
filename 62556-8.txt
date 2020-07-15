@@ -1,0 +1,1925 @@
+The Project Gutenberg EBook of Me, by Jalmari Finne
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Me
+
+Author: Jalmari Finne
+
+Release Date: July 4, 2020 [EBook #62556]
+
+Language: Finnish
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ME ***
+
+
+
+
+Produced by Tapio Riikonen
+
+
+
+
+
+
+
+
+ME
+
+Kirj.
+
+Jalmari Finne
+
+
+
+
+
+Helsingiss‰,
+Kustannusosakeyhtiˆ Otava,
+1908.
+
+
+
+
+
+
+      MOTTO:
+
+      H‰n, jonka ammattina on panna mustaa valkoiselle,
+      ei saa h‰mm‰sty‰ eik‰ suuttua silloin, kun h‰nelle
+      sanotaan, ett‰ h‰n on typer‰.
+
+                                         _Stendhal_.
+
+
+
+SISƒLLYS:
+
+Lukijat.
+Arvostelijat.
+Sivistyneet.
+Siveelliset.
+N‰yttelij‰t.
+Taiteilijat.
+Sanomalehtimiehet.
+Ylioppilaat.
+Pyhimykset ja marttyyrit.
+El‰tit.
+
+
+
+
+LUKIJAT.
+
+
+Kun suomalainen puhuu suomalaisista, sanoo h‰n "me", ja ajatuksissaan
+h‰n aina alkaa sen sanan suurella kirjaimella. Jos jotain perin
+kiitett‰v‰‰ on sanottavana, niin panee h‰n viel‰kin suuremman painon
+tuolle kirjaimelle, ja tarkoittaa sielunsa sisimm‰ss‰ sill‰ yksinomaan
+itse‰‰n. Sill‰ suomalainen on itserakas, vaikkakin koettaa sit‰
+peitt‰‰, ja kun h‰n ei uskalla sanoa: Min‰! sanoo h‰n Me, jotta
+toinenkin voisi iloita h‰nen kanssaan.
+
+T‰m‰ meid‰n suuri itsetyytyv‰isyytemme on kyll‰stytt‰nyt minua ja
+noussut minulle jo aivan kurkkuun asti, ja siksi min‰ kirjoitan. Ja jos
+min‰ lyˆn sinua, lukija, niin lyˆn itse‰nikin, sill‰ min‰ k‰rsin aivan
+samaa tautia kuin sin‰kin, min‰kin luulen olevani jotain erikoista
+kirjoittaessani t‰t‰.
+
+Jos jonain hetken‰ osun liian suoraan sinuun, niin koeta todistaa
+itsellesi, ett‰ sill‰ tarkoitetaan sinun parasta yst‰v‰‰si, silloin
+sin‰ voit iskusta todella iloita, sill‰ tied‰th‰n, ett‰ pahimmat
+toivotukset tulevat aina yst‰vien puolelta. Ja kun yst‰v‰si tapaat,
+niin sano h‰nelle: "Sill‰ h‰n varmasti tarkoitti sinua, mutta h‰n on
+v‰‰r‰ss‰." Silloin sin‰ olet saanut isketty‰ h‰neen ja samalla peit‰t
+iskusi. Se on sit‰ todellista el‰m‰niloa.
+
+Jollei sinulla edes t‰t‰ iloa ole kirjaani lukiessa, niin heit‰ se heti
+t‰m‰n luvun j‰lkeen pois, sill‰ roskaa sin‰ muutenkin luet jo aivan
+tarpeeksi.
+
+Jos sinua naurattaa lukiessasi, niin se ilahuttaa minua, silloin min‰
+olen vain kuin lapsi, joka tikulla syyhytt‰‰ aasin korvan taustaa. Ja
+min‰ puolestani olen niin mielell‰ni tuo lapsi.
+
+Mutta jos vihan vimmassa paiskaat kirjani maahan ja otat sen j‰lleen
+k‰siisi, silloin min‰ pelk‰‰n sinua, mutta iloitsen puolestasi.
+
+Min‰ tied‰n, ettet sin‰ yleens‰ lue paljoa kirjoja -- korkeintaan
+sanomalehti‰ -- ja jos kirjakaapillasi k‰visi, n‰kisi, ett‰ kirjastosi
+on kummallisen kirjava. Sin‰ luet viel‰ mieluummin salapoliisi- ja
+rikosromaania kuin vakavaa, ajatusrikasta kirjallista tuotetta. Jos
+sin‰ lˆyd‰t jostain teoksesta oikein hivelev‰n rivoa, niin iloitset
+siit‰, mutta puhut siit‰ inholla, puhut aivan yksityiskohtia myˆten ja
+muistat paraiten ne kohdat. Todella syvi‰ kohtia et muista laisinkaan.
+
+Jos kirjailija kirjoittaa syd‰nverell‰‰n, sanot: h‰n valehtelee. Jos
+h‰n valehtelee, sanot: h‰n puhuu totta. Niin sekavat k‰sitteet sinulla
+on siit‰, mik‰ on totta ja mik‰ on v‰‰r‰‰ ihmissielussa.
+
+Kun sinulla yleens‰ on hyvin v‰h‰n tietoa siit‰, mit‰ painetun sanan
+takana piilee -- eth‰n sin‰ osaa edes puhuakaan kyllin selv‰sti
+maailman kauneinta kielt‰ etk‰ antaa oikeille sanoille oikeaa
+korostusta -- niin ymm‰rr‰t tavallisesti aivan v‰‰rin tekij‰n
+tarkoituksen. Jos sin‰ jotain oppia saat kirjasta, niin on se aivan
+p‰in vastainen kuin tekij‰n tarkoitus on ollut. Sin‰ soisit, ett‰
+kaikki kirjoittaisivat sit‰, mik‰ sinulle on mieluista, jolloin lihan-,
+veren- ja rahanhimoiset ajatuksesi p‰‰sev‰t liikkeelle. Sellaisesta
+syntyisi kyll‰ hyvinkin mielt‰kiinnitt‰v‰ kirjallisuus ja onhan jo
+niit‰ sellaisiakin, jotka sen ilon sinulle tuottavat.
+
+Kun min‰ ja kustantaja iloitsemme siit‰, ett‰ niin moni kuin suinkin
+lukee kirjaani, niin annan sinulle hyv‰n neuvon. V‰it‰, ett‰ sin‰ olet
+t‰m‰n yl‰puolella, sin‰ yksin -- toisille voit sanoa, ett‰ hekin
+kuuluvat sinun seuraasi -- silloin sin‰ nautit kirjastani, sill‰
+olenhan antanut sinulle uusia aseita panettelusotaan. Ja sit‰ me
+osaamme niin verrattomasti k‰yd‰. Onhan se ainoa ala, jossa me koetamme
+saavuttaa t‰ydellisen taituruuden. Siin‰ sodassa saa iske‰ selk‰‰n
+toista, silloin kun h‰n ei voi itse‰‰n puolustaa, ja isketty‰‰n voi
+menn‰ haavoitetun luo ja auttaa ja tukea h‰nt‰, pist‰‰ sormensa haavaan
+ja v‰‰nt‰‰ sit‰ siell‰.
+
+Min‰ tied‰n varsin hyvin, ett‰ min‰ olen samallainen kuin sin‰kin,
+min‰kin luulen olevani asiain yl‰puolella. Ja min‰ sanon sinulle, ett‰
+sin‰ olet ehdottomasti t‰m‰n yl‰puolella. Olet kai nyt tyytyv‰inen?
+
+Ja kun sin‰ pid‰t kirjaani pˆyd‰ll‰si, oikein n‰kyv‰ll‰ paikalla,
+silloin sin‰ vieraillesi sanot: "Min‰ olen mielell‰ni lueskellut t‰t‰
+kirjaa, h‰n on aivan oikeassa."
+
+Silloin me ymm‰rr‰mme toisiamme, uskomme, ettei ainoakaan isku ole
+osunut meihin, ja tied‰mme olevamme profeettoja t‰ss‰ maassa.
+
+Huomasitko, min‰ sanoin Me?
+
+
+
+
+ARVOSTELIJAT.
+
+
+Jokainen meist‰ luulee pystyv‰ns‰ arvostelemaan ja arvostelemaan mit‰
+tahansa. Me emme sit‰ varten tarvitse mit‰‰n tutkimuksia emmek‰
+henkist‰ koulutusta, kaikki on meille niin p‰iv‰n selv‰‰ jo siit‰ asti,
+kun opimme nimemme kirjoittamaan. Politiikka, taide, yhteiskunta j.n.e.
+Sen vuoksi arvostelevatkin aina muita ne, jotka ovat nuorimpia, jotka
+eiv‰t mit‰‰n itse ole tehneet. Ruokatutti ja ‰ll‰-tikku ovat tiedon
+l‰hde ja valtikka, ja se, joka viimeksi niit‰ on k‰ytt‰nyt, on p‰tevin
+lausumaan mielipiteens‰ kaikesta.
+
+Ei meill‰ kenell‰k‰‰n ole sit‰ suoruutta, joka oli kuuluisalla
+ranskalaisella arvostelijalla Francisque Sarceylla, joka vastasi
+kysytt‰ess‰ h‰nelt‰, miksei h‰n ollut lausunut mielipidett‰‰n
+Dreyfus-asiasta: "Voidakseni lausua mielipiteeni t‰ytyisi minun ensin
+ottaa asiasta kummaltakin puolen t‰ysi selko, ja siihen minulla ei ole
+aikaa, sill‰ on muitakin asioita, joita min‰ paremmin ymm‰rr‰n. Sit‰
+paitsi ei minun tapani ole puhua asioista, joita en ymm‰rr‰."
+
+H‰n ei varmaankaan ollut niin etev‰ kuin mit‰ me olemme, sill‰ me
+osaamme puhua siit‰kin, jota emme ymm‰rr‰, ja siit‰ perusteellisemmin
+kuin muusta.
+
+Min‰ en voi k‰ytt‰‰ t‰ss‰ sanaa Te, sill‰ meit‰ arvostelijoita on
+kaikkialla, en myˆsk‰‰n sanaa Sin‰, sill‰ se voisi tuntua liian
+persoonalliselta, ja silloinhan laskisin itseni joukosta pois. Parasta
+on siis sanoa Me, ja kukin voi sen hiljaisuudessa lukea ik‰‰nkuin
+kirjoittaisin he -- ei isolla, vaan pienell‰ kirjaimella. Tuo Me-sana
+onkin aivan yleinen, ota vain k‰teesi mik‰ lehti tahansa ja lue siit‰
+arvostelu milt‰ alalta tahansa.
+
+Me emme tahdokaan ymm‰rt‰‰ toista, korkeintaan vain omaa itse‰mme --
+emmek‰ aina sit‰k‰‰n. Me emme n‰e toisen tyˆss‰ h‰nen sieluaan, emme
+anna sille arvoa. Me emme usko toisen sis‰lliseen vakaumukseen, emme
+h‰nen el‰m‰nteht‰v‰‰ns‰. Me n‰emme toisessa vain henkilˆn, joka koettaa
+nousta meit‰ ylemm‰ksi, ja silloinhan h‰n on nuijittava alas.
+
+Kun ihminen el‰‰ kolmea tarkoitusta varten:
+
+1:o seuratakseen raamatun k‰sky‰ ja lis‰t‰kseen kansaa,
+
+2:o kehitt‰‰kseen omaa persoonallisuuttaan, tai
+
+3:o rakentaakseen itselleen kuvapatsasta,
+
+niin uskomme aina jokaisen teon takana piilev‰n tuon patsashimon. Ja
+kun oma patsaamme ei ole varma, niin ei toinen ainakaan saa sit‰ saada
+itselleen.
+
+Kansakunnan lis‰‰mist‰ pidet‰‰n jonain joutohetken sivutoimena, ei
+sille panna mit‰‰n sen suurempaa painoa, ja kun me itse olemme
+henkisesti rammoiksi kehittyneet, niin t‰ytyy lapsiemmekin tulla
+sellaisiksi, silloin heid‰n on hyv‰ olla.
+
+Oman persoonallisuuden kehitt‰minen on liian vaivaloista tyˆt‰, ei
+siihen kannata ryhty‰. Kun joku erehdyksest‰ ottaa sen maalikseen, niin
+olemme perustaneet sanomalehdet, jotka niin taitavasti jokap‰iv‰isen
+annoksen kautta pilaavat persoonallisuuden, k‰‰nt‰en huomion riitoihin,
+paheisiin ja kaiken alasrepimiseen.
+
+Mutta patsaan t‰hden kannattaa el‰‰, rakentaa se rahasta, virkanimist‰
+tai yhteiskunnallisesta asemasta, uhrata sille el‰m‰ns‰. Ja jotta
+olisimme oikein varmat siit‰, niin kokoamme kivet el‰ess‰mme sit‰
+varten.
+
+T‰ss‰ toimessa on estett‰v‰ toista kaikin voimin. Jos kirjailija
+arvostelee toisia kirjailijoita, niin ei h‰n tahdokaan uskoa toisen
+todellisiin pyrintˆihin. Kuinka h‰nell‰ niit‰ voisi olla! Ja jos joku
+haukkuu meit‰, niin haukumme me takaisin, ja jollemme voi iske‰
+vastustajaamme, niin iskemme heikompiin. Kirjailija, joka halveksien
+arvostelee toista kirjailijaa, tiet‰‰ hyvin, ettei toisella mitenk‰‰n
+voi olla oikeita, puhtaita pyrkimyksi‰. H‰n tiet‰‰ sen omasta
+itsest‰‰n. Kirjailija moittii toista siksi, ettei toinen kirjoita
+samoin kuin h‰n. Ja jos toinen kirjoittaa niinkuin h‰n, silloin tuo
+toinen vasta onkin helisem‰ss‰. Kirjailija-arvostelija ei tunnusta
+muuta kuin yhden suunnan, ja se on h‰nen suuntansa, ja sill‰ alalla saa
+liikkua yksinomaan h‰n. On niit‰, jotka eiv‰t itse henkisesti tuota,
+mutta arvostelevat toisia. He tekev‰t joskus sen oikealla
+harrastuksella, mutta tavallisesti tulee kysymykseen se, onko
+kirjailija samaan puolueesen kuuluva kuin arvostelija. Omalla
+puolueella on vain neroja, toisella ei mit‰‰n. Sin‰nmalja turvaa myˆs
+huonoilta arvosteluilta, samoin yhteiset vekselit. Kyll‰h‰n me sen
+tied‰mme, se on p‰iv‰n selv‰‰.
+
+Pahimmat meist‰ ovat ne, jotka eiv‰t ole mit‰‰n osanneet tuottaa,
+vaikka ovatkin tahtoneet, me sit‰ ymm‰rr‰mmekin paraiten toisia. Ja
+miten me heit‰ ymm‰rr‰mme!
+
+Jos toinen voi hiukan korottaa meid‰n patsastamme, niin voimmehan
+silloin h‰nt‰ ylist‰‰. Hyv‰h‰n on, ett‰ se edes sen vuoksi tulee esiin.
+Ja kun arvostelija sanoo n‰yttelij‰lle: "sin‰ olet meid‰n etevin
+n‰yttelij‰mme", niin vastaa n‰yttelij‰: "ja sin‰ meid‰n etevin
+arvostelijamme." Ja me iloitsemme siit‰, ett‰ voimme n‰hd‰ kahden niin
+vilpittˆm‰sti antavan tunnustuksen toisilleen, sill‰ sen tunnustuksen
+me ymm‰rr‰mme.
+
+Ja kun arvostelija haukkuu teatteria ja kaikkia n‰ytelmi‰, niin
+kirjoittaa h‰n oman n‰ytelm‰n, johon h‰n lainaa ne temput, joita h‰n ei
+ole viel‰ enn‰tt‰nyt huonoiksi haukkua. Mutta kun h‰n on aloittanut
+paraimmista n‰ytt‰mˆkeksinnˆist‰ ja vet‰nyt ne alas, niin j‰‰ h‰nen
+k‰ytett‰v‰kseen huonoimmat, kuluneimmat. Ja me katselemme ihastuksella
+niit‰, sill‰ kaiken alasvet‰misen kautta voi her‰tt‰‰ suurimman
+kunnioituksen meiss‰. Onhan se tapa meiss‰ itsess‰mme niin suurena.
+
+Ja kun toinen s‰velt‰j‰ vet‰‰ toisen alas, laulaja toisen, laulajatar
+toisen, kun se maalari, joka huonoimmin maalaa, pit‰‰ suurinta suuta,
+silloin me tunnemme olevamme kotona, ja silloin me ylpeydell‰ lyˆmme
+rintoihimme ja sanomme: "Mik‰ ihana maa, t‰‰ll‰ sanotaan kaikki
+suoraan!"
+
+Jollei meill‰ ole painettua sanaa hallussamme, jolla voimme tuhansille
+puhua, niin onhan meill‰ toinen verraton ase: panettelu. Se on mukava
+ja perin luotettava keino. Sen avulla voi niin helposti tuhota. Ja
+sille asialle me olemme niin alttiita. Kun oikein mustaksi maalaa
+toisen yksityisen el‰m‰n, ottaa jonkun viattoman asian, selitt‰‰ sen
+mielivaltaisesti, rakentaa sille oikean h‰v‰istyslinnan, ja sen
+saatuaan valmiiksi todistaa tuon yhden viattoman alkuasian todeksi,
+niin t‰ytyyh‰n jokaisen heti uskoa, ett‰ koko linna on oikea. Toisen
+raha-asioissa voimme n‰hd‰ varkautta tai lahjomista, yksityisel‰m‰ss‰
+kaikki it‰- ja l‰nsimaiden paheet -- niit‰ on niin helppoa uskoa,
+varsinkin jos itse omistamme ne -- politiikassa petosta ja v‰‰ryytt‰.
+Se on niin helppoa! Pieni viittaus vain sinnep‰in, kyll‰ seuraava
+sitten jatkaa, eik‰ siten koskaan joudu kiinni, sill‰ onhan alkaja
+puhunut vain totta, kuulija on k‰sitt‰nyt v‰‰rin. Jos toinen seisoo
+sill‰ paikalla, mink‰ me itse tahdomme saada, niin t‰t‰ keinoa on
+viisainta k‰ytt‰‰. Muut pit‰v‰t kyll‰ huolen siit‰, ett‰ tuo toinen
+kukistuu, ja silloin me suurella vaatimattomuudella otamme h‰nen
+paikkansa.
+
+Jos etumme voimme tehd‰ samalla kansallisasiaksi, silloin tulos on
+ehdottomasti varma, sill‰ kansallisasia on meid‰n heikko kohtamme,
+sille me uhraamme kaiken.
+
+Voi myˆskin huutaa omasta individualisuudestaan, julistaa itse itsens‰
+yli-ihmiseksi -- toiset sit‰ eiv‰t tee! -- ja ottaa kaikki oikeudet,
+vaatia saada t‰ytt‰‰ kaikki oikkunsa, paheensa, vallanhimonsa y.m.
+tosi-inhimilliset hyveet, ja sitten vaatia, ett‰ muut t‰ytt‰v‰t
+velvollisuudet, silloin p‰‰see eteenp‰in. Individualisuuden sijasta voi
+myˆskin k‰ytt‰‰ sanaa sosialismi.
+
+Ennen kaikkea pit‰‰ k‰ytt‰‰ naisten arvostelua. Heihin voi p‰nt‰t‰ mit‰
+tahansa ja he vaikuttavat vuorostaan miehiin. Mies voi sitten
+vuorostaan olla naiselle ritarillinen. Jos nainen kirjoittaa, maalaa
+tai jotenkin muuten harjoittaa taidetta, niin rakastaja, sulhanen tai
+aviomies kirjoittakoon arvostelun. H‰nh‰n paraiten tuntee tuon naisen
+ominaisuudet ja voi vakuuttaa, ett‰ h‰n kuvaa taiteessaan omaa itse‰‰n,
+sisint‰ olemustaan. Nainen ei ole luotu saavuttamaan korkeinta
+taiteessa, mutta h‰n sittenkin on aina miesten yl‰puolella, sill‰ h‰n
+osaa niin hyvin houkutella miehen ottamaan h‰net niskaansa istumaan.
+
+Kaikki n‰m‰t keinot ovat patsaan rakentamista varten. Ei pid‰
+h‰ik‰ill‰, samahan se on, mit‰ patsaan sis‰ss‰ on, kun ulkokuori vain
+on kaunis ja patsas korkea.
+
+Meid‰n tulee aina, kaikessa ja kaikkia arvostella. Toisen ymm‰rt‰minen
+ei ole laisinkaan tarpeellista. Jos sen teemme, niin voimme helposti
+saada vaikutuksia h‰nest‰. P‰‰asia on pysy‰ itsen‰isen‰ ja sanoa
+mielipiteens‰.
+
+Rahaa, huomiota ja hyv‰n aseman saavuttaa varmimmin ryhtym‰ll‰ ajamaan
+v‰‰r‰‰ asiaa oikeaksi. T‰t‰ tapaa voivat k‰ytt‰‰ juristit ja ne, jotka
+pyrkiv‰t korkeaan valtiolliseen asemaan. T‰ydellisesti kyps‰ senaattori
+on se, joka osaa kansalle tehd‰ uskottavaksi, ett‰ musta on valkoinen.
+
+Ja sitten meid‰n tulee arvostella itse‰mme muiden kansojen rinnalla ja
+selitt‰‰ itsellemme, ett‰ me, yhteiskuntamme, taiteemme, kaikki on
+paljoa korkeammalla kuin muualla. Pit‰‰ painattaa meid‰n sanomalehtiin
+kaikki ylist‰v‰t arvostelut, eih‰n se mit‰‰n merkitse, vaikka arvostelu
+onkin ollut jossain ulkomaan nurkkalehdess‰. Varminta on itse hommata
+uutiset ulkomaan lehtiin. T‰ss‰ maassa on kaikki ulkomaalainen
+t‰ysikelpoista niin kauvan kuin se kiitt‰‰ meit‰. Mit‰ se tekee, ett‰
+ulkomailla on suurin osa sellaisia, jotka tuskin tiet‰v‰tk‰‰n, miss‰
+meid‰n maamme on, kunhan me vain itse tied‰mme oman j‰ttil‰issuuren
+arvomme.
+
+Eik‰ pid‰ lukea vanhojen aikojen kirjailijoita, se voisi liiaksi
+nˆyryytt‰‰, silloin n‰kee, ett‰ jo Seneca 1900 vuotta sitten arvosteli
+teeskennelty‰ runoutta ja Aristophanes meid‰n yhteiskunta-uudistustamme
+jo 2,300 vuotta sitten. Kaikki supistuisi silloin niin pieneksi, ja
+meid‰n t‰ytyy tuntea itsemme suuriksi. Silloin voisi myˆskin ihastua
+entisiin aikoihin, ja se olisi vaarallista, me emme saa nauttia muuta
+kuin omasta itsest‰mme ja siksi on aina ja yh‰ti arvosteltava.
+
+Kun t‰t‰ kirjoitan, niin en viel‰ tied‰, ottaako kukaan kustantaja
+t‰t‰ vastaan. Jos he eiv‰t sit‰ tee, niin varjelevat ehk‰ minua
+tyhmyyksist‰; jos he sen tekev‰t, saattavat minut julkisesti
+huutamaan tyhmyyksi‰ni. Jos he eiv‰t hyv‰ksy t‰t‰ -- arvostelijoitahan
+hekin ovat -- niin eiv‰t he ole laisinkaan ymm‰rt‰neet kirjaani,
+ja jos hyv‰ksyv‰t, niin ovat kai viel‰ huonommin ymm‰rt‰neet,
+ymm‰rt‰neet v‰‰rin, sill‰ eih‰n t‰m‰ ole hengellist‰ kirjallisuutta,
+ei salapoliisiseikkailuja, ei is‰nmaallista rallatusta, ei
+satun‰ytelm‰, joka on sit‰ parempi, jota h‰m‰r‰mpi, ja joka on meid‰n
+kirjallisuutemme korkein kukka ehk‰ siksi ett‰ satu on l‰hinn‰
+lastenkamaria, ei myˆsk‰‰n kansaa sivist‰v‰‰ kirjallisuutta, ei mit‰‰n
+noista suunnista, jotka tuottavat kustantajille rahaa. Min‰ en myˆsk‰‰n
+ole niin huonoissa raha-asioissa, ett‰ s‰‰list‰ kustannettaisiin
+kirjojani.
+
+Jos herrat arvostelijat t‰t‰ arvostelevat tavalla tai toisella, niin,
+kun ei tapani ole kutsua arvostelijoita ryypylle selitt‰‰kseni kirjani
+ansioita, en hommaa kiitt‰vi‰ arvosteluja itsest‰ni, en k‰y visiitill‰
+arvostelijain luona, en kuulu mink‰‰n sanomalehden toimitukseen tai
+puolueeseen, eik‰ minulla ole aikaa eik‰ halua selitell‰ tyˆt‰ni, niin
+sanon, ett‰ olen t‰m‰n kirjoittanut yleisˆlle ja itselleni ruoskaksi.
+Pahimman arvostelun j‰lkeen voisi liitt‰‰ t‰m‰n luvun, sill‰ silloin
+arvostelija ja min‰ olemme ymm‰rt‰neet toisiamme. Me olemme yhdess‰
+tehneet kumpikin omalta puoleltamme samaa.
+
+Huomasitko, min‰ sanoin Me?
+
+
+
+
+SIVISTYNEET.
+
+
+Min‰ uskoin aina ennen, ett‰ suomalainen kuului kansakunnista
+paraimpaan, t‰ydellisimp‰‰n, jaloimpaan, nyt ep‰ilen tuota suuruutta,
+ep‰ilen, onko suomalainen edes sivistynyt.
+
+Min‰ taidan vain t‰n‰ hetken‰ olla hiukan sekaisin p‰‰st‰ni, sill‰
+onhan jokaisen suomalaisen pyh‰ velvollisuus uskoa, ett‰ me olemme niin
+harvinaisen sivistyneit‰.
+
+Meill‰ on mukava keino sivistyksen saavuttamiseen, oikea patenttikeino.
+Kaikki ulkomaalainen tuotetaan t‰nne ja otetaan sellaisenaan vastaan.
+Se, mik‰ on ulkomaalaista, k‰y aina t‰ydest‰. Ennen aikaan me hiukan
+muodostimme ruumiimme mukaan tuota ulkomailta lainattua sivistyspukua.
+Nyt ei siihen ole aikaa. Nyt siepataan puku ylle ja me uskomme olevamme
+t‰ydellisi‰, vaikka puku paikoittain pingoittaa, paikoittain on liian
+v‰lj‰.
+
+Suomalainen on renki, joka on saanut herraskaisuuden hullutuksen
+p‰‰h‰ns‰. Ik‰v‰ vain, ettei h‰n huomaa, kuinka paljoa miellytt‰v‰mpi
+h‰n olisi renkihahmossaan kuin tuossa herraa matkivassa asussaan.
+Toisinaan tuo matkiminen voi jokseenkin hyvin onnistua, varsinkin jos
+asianomainen k‰ytt‰ytyy tyynesti, mutta kun h‰n sattuu kiukustumaan,
+niin heti renki n‰kyy herraskaisen puvun sis‰lt‰. Ja silloin h‰n on
+ehdottomasti naurettava, jota vastoin h‰n renkimuodossaan suuttuessaan
+her‰tt‰isi kunnioitusta. Renkin‰ h‰n tappelisi puukolla, herrana
+k‰ytt‰‰ h‰n kyn‰‰ puukkona.
+
+Renkim‰isyytt‰ on myˆs tuo suomalaisen kumarteleminen ruotsalaisille.
+Siin‰ me olemme menneet aivan irvikuviksi. Me pyrimme matkimaan heit‰
+ollaksemme muka sen kautta sivistyneempi‰. Suuri erehdys. Ei viinuri
+ole herra, vaikka h‰nell‰ onkin kaikki herran eleet.
+
+Sivistyksen suuruus riippuu siit‰, kuinka monta kirjaa kukin on lukenut
+valvonnan alaisena -- s.o. koulussa, opistoissa, yliopistossa. Ja
+ihmisi‰ yllytet‰‰n tuohon lukemiseen lauseella: tieto on valtaa! Me
+ymm‰rr‰mme sen koulupojan tavoin: "se p‰‰see voitolle katutappelussa,
+jolla on useampi kirja heitt‰‰kseen ne vastustajan p‰‰h‰n." Nyky‰‰n kun
+meill‰ on sellainen keskin‰inen tappeluvimma huudetaankin: enemm‰n
+sivistyst‰ kaikille kansalaisille! Uskontokirjat ovat huomatut liian
+pehmeiksi, siksi ne tahdotaan poistaa.
+
+Kaikki sivistysriennot ovat meill‰ matkimista, toisinaan se
+tunnustetaankin, mutta puolustetaan sit‰ sill‰, ett‰ "kansa on viel‰
+niin nuori." Kaikki on lainattua. Ylemm‰t koulut kulkevat saksalaisessa
+sotakurikaavassa; kansakouluista pakoitettiin eroamaan tarkastaja, joka
+uskalsi tehd‰ omia, oloihin sovitettuja parannuksia; yliopisto on
+pienoiskuva saksalaisista tiedontarhoista, kun se ensi kerran ilmaisi
+itsen‰isyytt‰, liitti se filosofian viereen lantatarhat ja karjatarhat;
+seminaarit happanevat vuosi vuodelta, jos huomataan suoraa m‰t‰‰, niin
+"ei se anna aihetta toimenpiteisiin"; taidesuunnista runous matkii
+saksalaisia tai ruotsalaisia, kirjallisuus yleens‰ kaikkia maita,
+mutta ei n‰e omaa maataan muuta kuin erehdyksest‰; nykyinen
+n‰ytelm‰kirjallisuus ei edes matki, siksi sit‰ ei ole olemassakaan;
+n‰ytelm‰taide on ranskalaisen ja saksalaisen sekasotkua; maalaus saa
+esityskeinonsa ulkomailta, kun se oikein hyvin sekoittaa kaikki,
+kutsutaan sit‰ yleiseurooppalaiseksi. Seurustelutavat ovat ainoat,
+jotka ovat pysyneet kansanomaisina, siit‰ ei voi erehty‰k‰‰n
+katsellessaan meik‰l‰isi‰. Joku hurskas sielu kyll‰ koettaa niit‰
+parantaa painattamalla oppikirjankin -- kaikkihan meill‰ saadaan
+painotiet‰! mutta ei sit‰ lukemalla opi.
+
+Kaikki ne miehet ovat kuolleet, jotka uskalsivat omasta perustasta
+nousta ja luoda oman, itsen‰isen sivistyksen. Mutta uudenaikainen
+sivistys yh‰ kehittyy. Meill‰ on oikea sivist‰misraivo. Muutamat
+ovatkin ottaneet toisten sivist‰misen urakalle. He kantavat tuota
+sivistyksen vett‰ pohjattomiin astioihin ja huutavat koko ajan: "hyv‰
+Jumala, sit‰ sivistyksen m‰‰r‰‰!"
+
+Ja kun oikein pyh‰ vimma saa vallan, niin julkaistaan hyvin laaja teos,
+kuten "Oma maa." Ja jokainen rient‰‰ sen ostamaan, sill‰ sellaisen
+kirjan kautta saa sivistyneen leiman. Kun se on pˆyd‰ll‰, niin kuka
+uskaltaa en‰‰ soimata sivistym‰ttˆm‰ksi? Olen seurannut tuon kirjan
+esiintymist‰ perheiss‰. Viidest‰kymmenest‰ perheest‰ oli viidess‰toista
+sit‰ luettu, sivut olivat avatut auki ja vihkoja oli pidelty. Muissa
+oli vihkoja paikoittain avattu, muutamissa ei laisinkaan. Talon herra
+aikoi lukea "tuon hyˆdyllisen ja v‰ltt‰m‰ttˆm‰n kirjan" loma-aikanaan.
+Kun se tulee, niin h‰n varmaankin lep‰‰ ja lykk‰‰ lukemisen
+talvi-illoiksi. Kun ne tulevat, pelaa h‰n skruuvia ja lykk‰‰ lukemisen
+loma-ajaksi j.n.e.
+
+Mutta sivistyksen urakoitsijat eiv‰t v‰sy. Kohta alkaa ilmesty‰
+tietosanakirja. Mik‰ ihmeellinen taikasana tuo: tietosanakirja! Kas,
+kun sen kirjan saa hyllylleen, niin silloin sit‰ on sivistynyt! Min‰
+ehdoitan, ett‰ arvoisat sanakirjan toimittajat j‰tt‰v‰t pois
+selityksen sanasta "sivistys." Joku viaton sielu voisi lukea sen, ja,
+jos selitys olisi suora ja todenmukainen, sanoisi hyv‰stit koko
+sivistykselle. Sivistyst‰ olisi viisainta selitt‰‰ suurelle yleisˆlle
+tietosanakirjan oppimiseksi ulkoa. Mik‰ ihana suomalaisen sivistyksen
+j‰rjenharjoituksen iltaseura, kun kaikki kuulustelisivat toisiaan
+tietosanakirjan ulkoluvussa! Mutta vaikka suomalainen olisi vakuutettu
+siit‰, ett‰ se on se oikea sivistyksen tie, niin h‰n lunttaisi tuossa
+ulkoluvussa, niin v‰h‰n on meill‰ todellista sis‰ist‰ pakkoa
+sivistykseen.
+
+Meid‰n koko sivistyksemme on tuollaista lunttaamista. Ajattelen
+yliopistoa. Sanotaan, ett‰ kaiken sivistyksen juuri ja pohja on
+logiikka. On kai, on kai! Mutta miksi eiv‰t professorit k‰yt‰ sit‰, kun
+on kysymys suomalaisuudesta yliopistossa. Mutta he ovatkin kai
+luntanneet sivistyksess‰‰n eiv‰tk‰ tunne logiikkaa. He eiv‰t osaa
+suomeakaan, vaikka heill‰ on todistus suomenkielen taidosta. Siin‰kin
+on luntattu.
+
+Ja kun meill‰ ihminen on sivistynyt vasta silloin kun h‰nell‰ on
+arvonimi‰, niin j‰rjest‰‰ yliopisto kurssia tuollaisen nimen
+saavuttamiseksi. Vaikka filosofian luulisi olevan tieteen, johon
+jokainen henkist‰ janoa tunteva pyrkii vapaasti, niin tehd‰‰n siit‰
+tutkinto-aine ja asianomainen nimenhakija antaa prepareeta itsens‰,
+suorittaa tutkintonsa ja el‰‰ el‰m‰ns‰ aivan kuin ei olisi kuullut
+filosofiasta puhuttavankaan. Tutkinto ei ole opettanut h‰nt‰
+hituistakaan selvemmin ajattelemaan. L‰‰k‰ri y.m. k‰yt‰nnˆn tiedemiehet
+toteuttavat jotenkin saamansa tiedot, filosofisen tutkinnon suorittaja
+on henkinen ep‰sikiˆ.
+
+Min‰ odotan vain, ett‰ yliopistoon j‰rjestet‰‰n lausunnonopetus, ja kun
+siin‰ suoritetaan tutkinto, niin eikˆh‰n ihminen ole sivistynyt, kun
+h‰n saa arvosanan luonnollisessa puhumisessa. Me tarvitsemme sinne
+viel‰ tanssikurssit -- hei, silloin sit‰ oltaisiin sivistyneit‰! Se
+tieteen suunta kantaisi n‰kyvi‰ hedelmi‰ ja diploomin saisi se, joka
+kauniimmin keikuttaa itse‰‰n. Politikoitsijoiden varsinkin tulisi
+suorittaa n‰m‰t molemmat kurssit.
+
+Silloin voitaisiin sanoa, ett‰ yliopistossa vallitsee todella "gaja
+scienza."
+
+Toisinaan tuo sivistyksen jano tulee oikeaksi yleiskuumeeksi, koko maa
+tempoilee sen vaikutuksesta. Sellainen aika oli meill‰ muutama vuosi
+sitten, silloin kaikki opettivat.. Lopulta opettajat ja oppilaat
+v‰syiv‰t, sill‰ molemmin puolin oltiin halukkaita lunttaamaan. Nyt ei
+kukaan yrit‰k‰‰n sit‰ en‰‰, sill‰ sen kautta ei saavutettu kummallakaan
+puolella lis‰‰ valtaa. Ja valtaa, sit‰ me koetamme kaikin tavoin
+saavuttaa. Sivistyksest‰ puhutaan, valtaa tarkoitetaan.
+
+Meid‰n sielumme on sivistyksen sekatavarakauppa. Sinne on koottu
+kaikkia el‰m‰ss‰ tarvittavia v‰likappaleita, mutta niit‰ ei siell‰
+k‰ytet‰. Me uskomme, ett‰ kaikki on niin kuin olla tuleekin, kun meill‰
+vain on kaikki tavarat. Mutta k‰ytt‰‰ niit‰ -- sit‰ me emme osaa.
+
+Min‰ olen kerran saanut tiet‰‰, mit‰ oikea sivistynyt on, ja min‰
+kuiskaan sen sinulle peloittaakseni sinua:
+
+"Sivistynyt on henkilˆ, joka ei kerskaile tiedoillaan, kunnioittaa
+toisen yksilˆllisyytt‰, ei tee velkoja, ei v‰‰ryydell‰ anasta mit‰‰n
+asemaa, ei puhu pahaa toisesta eik‰ kuuntele pahaa puhuttavan, ei kosta
+v‰‰ryytt‰ v‰‰ryydell‰, ei loukkausta loukkauksella."
+
+Min‰ hylk‰sin heti t‰m‰n opin, sill‰ min‰ huomasin sen aivan
+sopimattomaksi meille suomalaisille.
+
+Meid‰n t‰ytyy saada kerskailla siit‰kin, mit‰ emme ole, mit‰ emme
+taida, polkea toisiamme, tehd‰ velkoja, kaikin keinoin siepata valtaa
+itsellemme, panetella, kuunnella juoruja, aina kostaa toiselle ja aina
+loukata toisiamme.
+
+Eikˆ ole helppoa ja suloista el‰‰ sen opin mukaan, eikˆ tunne olevansa
+rakkaassa suomalaisessa piiriss‰? Me olemme kotona. Me olemme kotona!
+
+Huomasitko, min‰ sanoin Me?
+
+
+
+
+SIVEELLISET.
+
+
+Me olemme tavattoman siveellisi‰, s‰‰limme langenneita, koetamme heit‰
+auttaa ja nostaa. Kuinka suuria, kuinka jaloja me olemme!
+
+Ennen, kun herrat ryypp‰siv‰t yhdess‰, ja jos v‰hint‰in kolme istui
+saman pˆyd‰n ‰‰ress‰, niin kahdenkymmenen minuutin p‰‰st‰ alettiin
+kertoa rivoja juttuja. Nyt me istumme miehet ja naiset yhdess‰ ja
+puhumme siveydest‰ ja samalla kerromme oikein yksityiskohtia myˆten
+maailman turmeluksesta. Se hivelee niin suloisesti hermoja, ja kuinka
+opettavaa se samalla on! Meh‰n opimme tiet‰m‰‰n kaikki eri tavat. Ja
+kun oikein pyh‰n huumauksen tahtoo saada, niin pid‰mme suuren kokouksen
+ja puhumme siin‰ peitetyin sanoin maailman turmeluksesta. Eikˆh‰n se
+entinen tapa ollut selvempi?
+
+Ja kun me olemme oppineet tiet‰m‰‰n, mit‰ kaikkea synti‰ alaston ruumis
+voi tehd‰, niin onhan luonnollista, ett‰ ruumis parkaa koetetaan
+peitt‰‰. Kirkosta koetetaan ajaa alastomia kuvia pois, Takasen "Aino"
+parkakin sai v‰isty‰ er‰‰n kirjakaupan ikkunasta. Mit‰h‰n ajatuksia
+niill‰ valkonauhalaisilla oli, jotka sen tekiv‰t, koska he sit‰ niin
+vaativat pois?
+
+Kohta voimme odottaa samanlaista ihanaa aikaa, kuin oli M¸ncheniss‰
+kev‰tkes‰ll‰ 1900. Silloin peitettiin Glyptotekiss‰ kaikkien antiikkien
+kuvapatsaiden vaaralliset paikat suurilla paperisilla viikunanlehdill‰.
+Min‰ n‰in sen ja min‰ huomasin itseni hyvin siveelliseksi, sill‰ min‰
+punastuin, jos syndetikonilla marmoriin kiinnitetty lehti oli kulmasta
+irtaantunut.
+
+Jotta siveys oikein n‰kyisi, niin me siveelliset herrat pukeudumme
+mahdollisimman ruumiinmukaisiin vaatteisiin. Ne her‰tt‰v‰t naisissa
+oikeita ajatuksia. Ja naiset kirist‰v‰t ruumiinsa ja tuovat tarkoin
+esiin sen, mik‰ naisen ruumiissa on eroavaa miehen ruumiista. Mit‰
+siit‰, ett‰ terveys pilaantuu tulevien sukupolvien vahingoksi, kun
+muotia vain seurataan ja keskiosa vartaloa kyllin selv‰sti esiintyy.
+
+Kun meid‰n siveelliset naiset niin v‰h‰n saavat osakseen miesten
+ihailua, niin ovat he p‰‰tt‰neet iltaisin menn‰ kadulle ja antaa
+herrojen iske‰ heihin saadakseen tiet‰‰, ketk‰ niist‰ ovat
+ep‰siveellisi‰. Kuinka suurta on siveys, kun saa kaduilla vilkuilla
+ymp‰rilleen ja kehoittavasti hymyill‰, ja sitten saa kuulla tuon
+kaupanteon rakkaudesta, kuulla kaikki aistilliset lauseet. Ja kun
+viimeiseen asti on ne imenyt itselleen, niin sitten voi lyk‰t‰ herran
+luotaan suuren siveellisyyspuuskan vallassa ja rient‰‰ yst‰viens‰ luo
+kertomaan tarkalleen kaikki. Kun sitten laskeutuu levolle ja muistelee
+kaikkea tuota maailman pahuutta, niin suloinen rauha t‰ytt‰‰ olemuksen
+ja n‰kee ihania unia. Mist‰?
+
+Jotta painetun sanan kautta -- joka t‰ss‰ maassa on kaikki kaikessa --
+voitaisiin vaikuttaa puhdistavasti, niin kustannusliike voi julkaista
+"maailman kuuluisaa" sarjaa siveyskirjallisuutta ja samalla himokkaan
+romaanin, joka on "parasta mit‰ t‰ss‰ maassa on kirjoitettu." N‰in
+tulee asia molemmin puolin valaistuksi.
+
+Kyll‰ t‰m‰ maa tulee t‰ysin siveelliseksi, sill‰ ajavathan asiaa
+henkilˆt, jotka eiv‰t ole tunteneet suuria tunteita, joilla veri on
+ollut niin tavattoman mietoa ja jotka ovat olleet kykenem‰ttˆmi‰
+hairahtumaankaan. Kauheata olisi ajatella, ett‰ asiaa ajaisi ‰idit,
+joilla on kuusi, seitsem‰n henkisesti ja ruumiillisesti tervett‰ lasta,
+tai naimattomat naiset, jotka ovat tyydytt‰neet ‰idin tunnetta
+itsess‰‰n ja ovat sen vuoksi, vaikkapa lain ulkopuolella, etsineet
+miehen, jonka kanssa he ovat tahtoneet synnytt‰‰ terveen olennon
+maailmaan. Sellaiset naiset voisivat nousta sotaan avioliitoissa
+vallitsevaa ep‰siveellisyytt‰ vastaan. Ja se ei saisi tapahtua.
+Avioliitto on pyh‰ laitos, sen kautta lis‰‰ntyy kansa. Paljous on
+p‰‰asia, laatu sivuasia. Maailma on t‰ytett‰v‰, samapa se vaikka
+henkisesti rammoilla. Aivan siet‰m‰tˆnt‰ olisi, jos asiaa ryhtyisi
+ajamaan henkilˆ, joka sanoisi langenneensa mutta sitten nousseensa,
+joka tiet‰isi ja tuntisi ihmissielun heikkouden, joka uskaltaisi omien
+kokemustensa perustuksella luoda onnea toisille ja joka sanojensa
+vakuudeksi uskaltaisi aina tuoda oman el‰m‰ns‰. Jos sellainen tulisi,
+niin t‰ytyy meid‰n halveksia h‰nt‰, luopua h‰nen seurastaan, sill‰ h‰n
+on huono ihminen. Hyv‰ on vain se, joka kaiken pahan tekee -- salassa.
+
+Naitu nainen n‰kee siveellisyysasian toisin kuin se nainen, joka ei
+koskaan ole aistillista rakkautta tuntenut. Olin seurassa, jossa oli
+koolla kuusi siveytt‰ saarnaavaa naista. Er‰s vaatimaton, seuraan
+kuulumaton vanhanpuoleinen rouva kysyi, kuinka moni naisista oli
+naimisissa. Yksi heist‰ oli ollut naimisissa viisi viikkoa, jolloin
+h‰nen miehens‰ kuoli. Tuo viaton, vanha rouva kysyi, kuinka he sitten
+tunsivat miehen ja naisen v‰lisen rakkauden. Sit‰ kysymyst‰ pitiv‰t nuo
+naiset loukkauksena. Vanha rouva vaikeni eik‰ ymm‰rt‰nyt toisten
+loukkaantumista. Kuulin h‰nen hiljaa sanovan toiselle: ovatko he ehk‰
+kateellisia?
+
+Eikˆ se vanha rouva ollut typer‰! T‰ss‰ maassahan saa siveydest‰ puhua
+vain se, joka ei ep‰siveytt‰ tunne, ei tunne lankeemista, taistelua ja
+nousemista.
+
+Me olemme kaikki kerran pudonneet likaan, mutta t‰rkeint‰ on, ettei
+kukaan sit‰ tied‰. Ja silloin kun emme en‰‰ jaksa langeta, puhukaamme
+siveydest‰.
+
+Kun meill‰ useassa asiassa on johtohenkilˆin‰ sellaisia, jotka eiv‰t
+asiasta mit‰‰n tied‰ tai tiet‰v‰t surkean v‰h‰n, niin siveelliset
+uskovat saavansa ihmeit‰ aikaan. Ihmeen luulee tekev‰ns‰ se, joka ei
+tunne myllyn rakennetta ja vesiluukun avattua saa pyˆr‰n pyˆrim‰‰n.
+
+Siveelliset tahtovat langenneiden naisten tarkastuksen omiin k‰siins‰.
+He saavat sen, sill‰ meh‰n harrastamme kaikki siveytt‰. Siveyspoliisien
+sijaan tulee terveyspoliisit, nimet muuttuvat, miehet ovat samoja.
+
+Siveelliset puhelevat langenneille hell‰sti: me olemme sinun,
+sisariasi! Mutta sisarta he eiv‰t ota luokseen. He uskovat tekev‰ns‰
+langenneista uusia ihmisi‰ kysym‰tt‰ l‰‰k‰rin mielipidett‰, joka sanoo,
+ett‰ prostitueerattu nainen on psyykillisesti defekti. H‰n seuraa
+paheessaan omaa luonnettaan. Min‰ odotan vain kunnes perustetaan
+yhdistys, jonka tarkoitus on hyvyydell‰ saada ontuvat k‰velem‰‰n
+moitteettomasti.
+
+Kun naiset toiselta puolen huutavat: alas prostitutsiooni! niin
+huutavat toiset naiset: el‰kˆˆn vapaa rakkaus! ja sill‰ he tarkoittavat
+vapaata nautintoa. Ja kun joku kirjoittaa siit‰ hurmaavan kuvauksen,
+niin l‰hetet‰‰n h‰nelle kukkia.
+
+Siveellinen s‰‰lii langennutta ja t‰m‰ jatkaa heti samaa nuottia, sill‰
+h‰n toivoo tuosta s‰estyksest‰ saavansa rahaa. Takanap‰in he ottavat
+rahan silt‰, joka pyyt‰‰ toista s‰estyst‰.
+
+Jos siveelliset tahtoisivat todella parantaa ihmiskuntaa, niin
+alkaisivat perheist‰, panisivat t‰ydellisen tarkastuksen toimeen siit‰,
+kell‰ vanhemmilla on oikeus saada lapsia. Silloin he kaataisivat
+m‰t‰puun juuresta eiv‰tk‰ katkoisi latvalehti‰. Niin kauvan kuin sit‰
+ei tehd‰, versoo yh‰ uusia oksia. Sellainen yritys tuntuisi
+mahdottomalta, mutta siin‰ olisi j‰rke‰.
+
+Sit‰ ennen liittyk‰‰mme seuraan, joka ajaa siveysasiaa, sen avulla
+voimme onkia itsellemme etuja ja meill‰ on hyv‰, luottamusta her‰tt‰v‰
+leima.
+
+Huomasitko, min‰ sanoin Me?
+
+
+
+
+NƒYTTELIJƒT.
+
+
+Min‰ olen ollut yksitoista vuotta teatterissa ja nyt j‰tt‰nyt sen.
+Teatteri on se taimilava, jossa varsinkin heikkoudet ihmisluonteessa
+kehittyv‰t t‰yteen kukoistukseensa, ja kun min‰ t‰ss‰ k‰yt‰n
+n‰yttelijˆist‰ sanaa he, niin voit, sin‰ lukija, pahimmissa paikoissa
+muuttaa sen sanaksi Me ja tarkoittaa sill‰ minua.
+
+N‰yttelij‰t ovat jonkimmoinen tiivistetty aines koko kansasta,
+tuollainen mallitarha, jota valtion varoilla on pidett‰v‰ kunnossa, ja
+n‰yttelijˆiden seurassa oppiikin paraiten n‰kem‰‰n t‰m‰n sek‰ kaikkien
+muiden kansojen ominaisuudet. Meid‰n kansalla ei ole synnynn‰isi‰
+n‰yttelij‰lahjoja, mutta kuten kaikessa muussakin, niin matkii se
+t‰ss‰kin Eurooppaa ja pyrkii kuulumaan suurien kansakuntien joukkoon.
+Ja kuten n‰yttelij‰ uskoo olevansa kuningas, niin uskoo t‰m‰ maa
+olevansa se "kehityksen ja edistyksen lipunkantaja", johon muut maat
+katsovat sellaisella puhtaalla ihastuksella ylˆs. N‰yttelij‰ haluaa
+aina, ett‰ muut ihmiset puhuisivat h‰nest‰, ja jos h‰n on tuttu
+arvostelijan kanssa, niin kuiskaa h‰n itse hyvi‰ lauseita taidostaan
+arvostelijan korvaan. Samoin kirjoittelemme me itse ylistyksi‰ t‰st‰
+maasta ulkomaisiin lehtiin ja olemme varmasti vakuutettuja siit‰, ett‰
+meid‰n sanojamme siell‰ uskotaan.
+
+N‰yttelij‰ uskoo olevansa suuri taiteilija ilman sivistyst‰kin, niin
+mekin teemme, kaikelle ulkonaiselle pannaan suuri paino ja sivistys
+tehd‰‰n kaavamaiseksi muotiasiaksi.
+
+Meid‰n parhaat n‰yttelij‰mme eiv‰t ole teatterissa n‰ytt‰m‰ss‰ itse‰‰n
+rahan edest‰, ei, ne etevimm‰t ovat palkkaa nauttivina senaatissa,
+eduskunnassa, sanomalehdiss‰, poliisilaitoksessa, kirkossa, kaikkialla,
+miss‰ hyvi‰ palkkioita maksetaan niille, jotka voivat el‰m‰ss‰
+toteuttaa sadun "Keisarin uudet vaatteet."
+
+Siell‰ miss‰ n‰lk‰palkkoja tarjotaan, mutta vaaditaan suurta
+itsens‰uhraavaa tyˆt‰, eik‰ n‰yttelemisell‰ ole mit‰‰n merkityst‰,
+siell‰ on v‰himmin n‰yttelijˆit‰. Se ala on tiedemiesten ala. Siksi
+heist‰ kuuleekin niin v‰h‰n, ja jos sanomalehdet kirjoittavat heid‰n
+tˆist‰‰n, niin painattavat kertomuksen mahdollisimman pienill‰
+kirjaimilla, mutta kun teatteri-ihminen on lavalla huutanut ja
+r‰yh‰nnyt, niin sanomalehdet harventavat kirjoituksen kirjaimet
+ja yleisˆ ahmii arvostelun, joka joskus voi kuulua melkein
+rakkaudentunnustukselta, niin innostunut voi sen kirjoittaja olla.
+
+Toisinaan voi tuo n‰yttelemishalumme osua v‰‰r‰‰n paikkaan ja me
+esiinnymme kuten seuran‰yttelij‰t, jotka n‰ytelm‰ss‰ saavat surmata
+jonkun ja vihan vimmassa huutaen ja karjuen syˆksyv‰t v‰‰r‰n henkilˆn
+kimppuun ja iskev‰t teatteripuukolla omaa puoluelaistaan. Er‰s
+senaattori erosi sen vuoksi, ett‰ h‰n ei voinut ajaa vastoin
+vakaumustaan asiaa, jonka eduskunta m‰‰r‰si h‰nen toimekseen. Silloin
+h‰nen oman puolueensa ‰‰nenkannattaja, jonka puolueohjelmaan kuului se
+asia, jota senaattori ei voinut ajaa, nosti suuren ‰‰nen, ylisti
+senaattoria ja kielsi kannatuksensa senaatilta. Se tuntui niin
+luonnolliselta, kun huuto oli suuri. Me tahdomme n‰hd‰ surmaamista ja
+puukotusta. Mit‰ siit‰, ett‰ puukko meni v‰‰r‰‰n suuntaan, isku oli
+loistava, vaikka puukko olikin vain teatteripuukko.
+
+Ett‰ joku toimii vakaumuksesta, se on meid‰n mielest‰mme j‰rjetˆnt‰,
+sill‰ tuo vakaumusn‰ytteleminen on jo vanhentunut temppu. Yhteen aikaan
+se tepsi, ja silloin asianomainen sai osakseen serenaadia ja kukkia --
+meill‰ ovat rautalankoihin sidotut kukat kunnianosoituksia miehillekin,
+miksi, kukathan ovat naisten ja naismaisten miesten koruja, vai
+olisimmeko me kaikki naismaistuneet. Ja kukkien keskell‰ asianomainen
+lˆi rintoihinsa ja uhrasi vakaumukselleen kaikki!
+
+Teatteri n‰yttelee eri n‰ytelmi‰, mekin muutamme ohjelmaa. Meill‰ on
+milloin mikin asia n‰yttelemisen aiheena. Raittius oli jonkun aikaa sen
+alaisena. Muutamat juhlallisesti vakuuttivat, etteiv‰t he koskaan en‰‰
+maista v‰kijuomia. Ja yleisˆst‰ oli se niin suuremmoista, eik‰ kukaan
+kysynyt, oliko ehk‰ l‰‰k‰ri heit‰ kielt‰nyt juomasta.
+
+Nyt on siveys n‰yttelemisen aiheena. Kohta kai saamme lukea
+sanomalehdist‰, miten ne henkilˆt, jotka eiv‰t en‰‰ jaksa, saa tai
+uskalla pahaa tehd‰, julistavat itsens‰ t‰m‰n uuden ajan pyhimyksiksi.
+
+Vaaliaikana saavutti n‰ytteleminen kukoistuksensa. Se oli kansallisen
+teatterimaisuuden loistoaika. Puolueet panivat toimeen n‰yt‰ntˆj‰,
+joissa esiintyiv‰t suurimmat suunsoittajat. Sirkuksen kanssa
+kilpailtiin kuvallisissa plakaateissa. Ja kuten n‰yttelij‰ lennokkaan
+ihanteellisuuden j‰lkeen kaipaa hiukan olutta, niin puhujia, jotka
+yllyttiv‰t kieltolakia sis‰lt‰v‰‰n ohjelmaan liittym‰‰n, juhlittiin
+pidoilla, joissa lautasen edess‰ oli useita laseja.
+
+Jotain aivan uutta olisi jo keksitt‰v‰, sill‰ is‰nmaallisuuskaan ei
+en‰‰ auta, sit‰kin on jo liiaksi viljelty. Ne ihanat ajat ovat
+olleet ja menneet, jolloin el‰inn‰yttelyt ja kilpa-ajot avattiin
+Maamme-laululla ja jolloin sikojen ja lehmien kehitt‰minen julistettiin
+kansallistyˆksi. Pacius ja Runeberg parat, jotka Maamme-laululla ovat
+edist‰neet humbuugia, ja Aho parka, joka keksim‰ll‰ "katajaisen
+kansani" antoi sill‰ hyv‰n nimen monen monituiselle ilveelle, sen sanan
+venyv‰isyys kun oli kerrassaan satumainen, se sopi mihin tahansa.
+
+Oli aika, jolloin me kaikki n‰yttelimme sosialismia. Punaiset kravatit
+ja kaulahuivit olivat suosittuja, me j‰rjestimme omia aseettomia
+sotajoukkoja, kansallinen komedia vaati sen, me kuljimme kuten veljet
+ainakin sovussa ja rakkaudessa. Sitten hankittiin runsaasti kiv‰‰ri‰,
+jotka olivat k‰yt‰nnˆss‰ kelpaamattomia. Se pel‰stytti suurta joukkoa.
+Samalla esiintyi toinen peloittava asia: sosialismi vaati uhrauksia,
+v‰istymist‰ sorrettujen tielt‰, p‰‰st‰mist‰ heit‰ lihapatamme luo ja
+kukkarollemme, silloin tuli k‰‰nne. Jaloudesta voi puhua, mutta sen
+harjoittaminen on mahdotonta. Kohta me kai olemme kapitalistia jokainen
+ja keltainen v‰ri on muotiv‰ri.
+
+Kun varsinaiset n‰yttelij‰t ovat tuollainen tiivistetty aines koko
+kansasta, niin otan heid‰t k‰sitelt‰viksi.
+
+N‰yttelij‰ on harvoin taiteilija, h‰n on olento, joka uskoo omaan
+puutteelliseen sieluunsa runottaren ottaneen asunnon. N‰yttelij‰, joka
+kerran on saanut vakinaisen paikan, ei en‰‰ kehityst‰ kaipaa, h‰nen
+tutkimuksensa rajoittuvat istumaan seurassa ja puhumaan omasta
+itsest‰ns‰. Oletko n‰yttelij‰n kuullut puhuvan muusta kuin itsest‰‰n?
+Siihen aineeseen ei h‰n v‰sy. Ja kuinka kauniita vertauskuvia h‰n
+lˆyt‰‰k‰‰n itsest‰‰n. Jos h‰n juo ja humalaisena esiintyy, tekee
+velkoja ja h‰p‰isee koko laitoksen, niin on h‰n "haavoitettu leijona."
+Jos h‰n hankkii itselleen salaisia ihailijoita, jotka eiv‰t
+platonismista tied‰k‰‰n, niin on se "puhdas lilja." Jos he rikkovat
+tavalliset yhteiskuntalait ja muodostavat suhteita, joille joko
+nauretaan tai joita inhotaan, niin ovat he "vapauden harrastajia." Ja
+he kulkevat p‰‰ pystyss‰ ja huutavat omaa ylistyst‰‰n ja mielistelev‰t
+ihmisi‰, jotta n‰m‰t antaisivat heille kukkia n‰yt‰nnˆiss‰. Kun on
+oikein taitava, niin voi olla hyv‰ yst‰v‰ puutarhurin kanssa, ja kun
+monta tilausta on toimittanut, niin joskus puutarhuri omasta puolestaan
+l‰hett‰‰ kauniin kukkalaitteen, ja sanomalehdet kertovat harvennetulla
+tyylill‰ sen ja sen saaneen yleisˆlt‰ kukkalaitteen. Yleisˆ‰ on niin
+helppoa syytt‰‰ kaikista tyhmyyksist‰.
+
+Kun meid‰n maassamme eiv‰t apinat kylm‰n ilmanlaadun vuoksi menesty,
+niin joutuvat n‰yttelij‰t noiden apina-ihailijoiden lemmikeiksi. Kun
+sellaiselle ihailijalle jokainen apina on yht‰ rakas, niin antaa h‰n
+jokaiselle j‰rjest‰‰n laakereita. Laakeripuu onkin tullut meid‰n
+maassamme jo joksikin kotipuuksi. Toisinaan t‰ss‰ suhteessa voi synty‰
+pieni‰ erehdyksi‰, mutta niille ei yleisˆ pane painoa. N‰yttelij‰ voi
+saada laakeriseppeleen p‰iv‰n‰, jona juhlitaan jotain suur-miest‰, tai
+voidaan seppele antaa henkilˆlle, jolla on sivuosa n‰ytelm‰ss‰ ja jossa
+h‰n on erityisen huono. Toisinaan se voisi osua liian hassusti --
+silloin sukkela n‰yttelij‰ j‰rjest‰‰ niin, ett‰ p‰‰osan esitt‰j‰ saa
+seppeleen, joka oli aijottu sivuosan esitt‰j‰lle. Samahan se on, miss‰
+j‰rjestyksess‰ se tapahtuu, kun kukin tiet‰‰ sen saavansa. Sanomalehdet
+mainitsevat aina laakeriseppeleest‰ ja yleisˆ uskoo, ett‰ se n‰yttelij‰
+on suurin, jolla on eniten kukkia-antavia yst‰vi‰, ja iloitsee, kun
+n‰ytelm‰taide on meill‰ niin korkealla.
+
+Teatteri on n.s. sivistyslaitos. Joku voi k‰sitt‰‰ sen puustavillisesti
+ja sivist‰‰ itse‰‰n k‰ym‰ll‰ katsomassa jokaista n‰ytelm‰‰. Kun sitten
+n‰ytelm‰kauden lopulla tarkastaa, mit‰ sivistyst‰ harrastava on n‰hnyt,
+niin ymm‰rt‰‰ kyll‰, miten sivistynyt h‰n on.
+
+Kun teatteri on niin l‰hell‰ yleisˆ‰, niin sit‰ voi siis jokainen
+ymm‰rt‰‰. Sen vuoksi ovatkin teatteriarvostelijamme aina nuoria miehi‰,
+heill‰ on niin selv‰ ja turmeltumaton silm‰ n‰kem‰‰n kaiken kauniissa
+valossa. Ja t‰llainen nuori mies tekee tuttavuutta n‰yttelij‰in kanssa,
+hakkailee neitosia ja kuuntelee kapakassa herrojen kertomia
+teatterijuttuja, tehden siten draamallisia tutkimuksia. Pian saakin h‰n
+omaan itseens‰ suuren m‰‰r‰n n‰yttelij‰in esiintymistapaa, alkaa
+ulkonaisesti k‰ytt‰yty‰ luonnottoman hienosti ja saa arvosteluihin
+ihanan lennon. H‰n kuulee ja n‰kee esityksess‰ aivan ylenluonnollisia
+asioita, ja korkeimman innostuksen saavutettuaan h‰n ylist‰‰ meid‰n
+kansalliskirjallisuutemme nerontuotetta "Tukkijoella" ja sen
+esitt‰mist‰ ja h‰n "tahtoisi avata teatterin sein‰t ja huutaa koko
+maailmalle: tulkaa katsomaan todellista taidetta." Jos arvostelija
+sattuu olemaan kuuronpuoleinen, niin silloin h‰n voi olla kuulematta,
+mit‰ hyv‰‰ todella suuressa taiteilijassa on, h‰n vet‰‰ h‰net alas,
+jotta keskinkertaiset kyvyt eiv‰t painuisi liian syv‰lle. Ja pienet
+n‰yttelij‰t iloitsevat, ett‰ sellainen etev‰ arvostelija on noussut,
+joka uskaltaa sanoa totuuden, sill‰ n‰yttelij‰n mielest‰ on se
+arvostelija etev‰, joka h‰nt‰ kiitt‰‰ ja toista moittii.
+
+N‰yttelij‰ tahtoo kuulla kiitosta, sill‰ moite pakoittaisi h‰nt‰
+tekem‰‰n tyˆt‰ itsens‰ kehitt‰miseksi, ja n‰yttelij‰ on laiska. Mutta
+laiskuus on raskasta, siksi h‰n tahtoo saada siit‰ korkean palkan. H‰n
+tahtoo saada hyvin varhain el‰kkeen, sill‰, kuten h‰n itse sanoo,
+"n‰yttelij‰n toimi on niin kuluttava." Arvaahan sen! Ja el‰kelaitosta
+varten pidet‰‰n suuria arpajaisia ja n‰yttelij‰ saa sek‰ palkan ett‰
+el‰kkeen.
+
+N‰yttelij‰ tahtoo asua komeammin kuin h‰nen pit‰isik‰‰n. Oletko koskaan
+k‰ynyt n‰yttelij‰n asunnossa? Se on jonkimmoinen pienoiskuva
+n‰ytt‰mˆst‰, jossa kaikki on valheellista: huonoja tauluja komeissa
+kehyksiss‰, huonekaluissa kaikkien eri tyylien suloinen yhdistys
+pietarilaisista huonekaluista nykyaikuisiin asti, ulkomailta laahattua
+basaaritavaraa, siell‰ t‰‰ll‰ n‰kyvill‰ paikoilla kuvia n‰yttelij‰st‰
+niiss‰ osissa, joissa h‰n on onnistunut huonosti, mutta teatterir‰‰t‰li
+ja valokuvaaja hyvin. Ja ennenkaikkea kuihtuneita laakeriseppeleit‰ tai
+ainakin seppeleen silkkinauhoja, joita vieraille n‰ytet‰‰n
+teeskennellyll‰ vaatimattomuudella. Samoin kuin h‰nen asunnossaan
+vallitsee tuo "taiteellinen ep‰j‰rjestys", niin vallitsee se h‰nen
+puvussaankin. H‰n pukeutuu juutalaisbasaarin muodin mukaan, lis‰ten
+siihen omia erikoisia keksintˆj‰‰n. Kun n‰yttelij‰t‰r kulkee koko
+loistossaan kadulla, niin on h‰n t‰ydellinen todistus siit‰, miten ei
+tulisi pukeutua. H‰n on nimitt‰in yhdistys mit‰ r‰ikeimmist‰ v‰reist‰
+ja aineksista. Jos h‰n vuoraa p‰‰llystakkinsa silkill‰, niin keksii h‰n
+keinon, mill‰ h‰n sen n‰ytt‰‰ jokaiselle vastaantulijalle. Mik‰
+v‰h‰nkin kaunistaa, sit‰ k‰ytet‰‰n. Jos mustasankaiset silm‰lasit ovat
+edullisia, niin otetaan paljaat sangat nen‰lle ja pidet‰‰n sellaista
+ilvett‰ vuosikausia.
+
+N‰yttelij‰ valmistaa itselleen silmiinpist‰v‰n ulkonaisen kehyksen,
+muuten tyhmyys n‰kyisi liian selv‰sti.
+
+N‰yttelij‰ harrastaa yht‰ asiaa koko sielullaan, ei tyˆt‰‰n vaan
+nykyajan tutkimista. "N‰yttelij‰n tulee tutkia el‰m‰‰", on tunnuslause
+heille. Kirjailijoiden teokset ovat vanhanaikuisia, ik‰vi‰,
+Shakespearesta tuntee n‰yttelij‰ ne osat, jotka h‰n on n‰ytellyt,
+puhumattakaan muista kirjailijoista, joiden teoksia ei ole k‰‰nnetty,
+niist‰ h‰n ei tied‰ mit‰‰n. H‰n ei harrasta vieraita kieli‰ muuta kuin
+niin paljon, ett‰ tˆin tuskin tulee toimeen ulkomailla, jonne h‰n
+valtion matkarahalla menee tekem‰‰n s‰‰stˆj‰ ja ostamaan uusia pukuja.
+Mutta oma, kansallinen el‰m‰mme, se tunnetaan tarkoin. Jos virastot,
+varsinkin pankit, ovat muodostaneet keskeens‰ tiedonpesi‰ yksityisten
+ihmisten el‰m‰n tarkastamiseksi, niin on joka teatterissa oikea
+tiedustelutoimisto perhesalaisuuksia varten, siihen kuuluvat
+keski-ik‰iset naiset ja effemineeratut miehet.
+
+Muualla maailmassa m‰‰r‰‰v‰t n‰yttelij‰t kielen, ja Ranskassa akademian
+j‰senet voivat kysy‰ n‰yttelij‰n mielipidett‰ sanojen ‰‰nt‰misest‰.
+Meid‰n n‰yttelij‰mme ovat luonnollisesti myˆskin omaksuneet t‰m‰n jalon
+toimen. Tiedemiehet sanovat, ett‰ meid‰n kielemme kuuluu maailman
+kauneimpien kielten joukkoon; sen me mielell‰mme uskomme ja iloitsemme,
+kun n‰yttelij‰t ‰‰nt‰v‰t sit‰ milloin niinkuin ruotsia, milloin
+niinkuin ven‰tt‰, ja kun oikein hienoja ollaan, niin annetaan sille
+hiukan ranskalaista kiilloitusta. Ja kun meill‰ kieless‰mme ei ole
+suhu‰‰ni‰, joiden avulla voisi teeskennellyn suloisesti sirist‰‰, niin
+ne keksit‰‰n, ja meid‰n s:mme sihisee ja suhisee ja lopulta kai katoo
+kokonaan. Monet vihaavat konsonantteja siihen m‰‰r‰‰n, ett‰ ne yh‰
+enemm‰n heikkenev‰t heid‰n puheessaan. Jos yleisˆ ei sellaista puhetta
+ymm‰rr‰, niin on se tyhm‰ ja teatterin akustiikka huono. Jos joku
+erehdyksest‰ puhuu selv‰sti, niin on h‰nen kielens‰ sivistym‰tˆnt‰ ja
+luonnotonta. Jos jollakulla kirjailijalla on kaunis kieli vallassaan,
+niin palkataan h‰net teatteriin "kielen valvojaksi", jotta h‰nen oma
+kielens‰ katoisi ja h‰n voisi antaa tunnustuksen n‰yttelijˆiden
+puhetavalle. Kerran se p‰iv‰ kai viel‰ koittaa, jolloin konsonantit
+ovat kadonneet kokonaan, ja kun vokaalit ovat kadottaneet arvonsa, a
+ensin tullut ranskalaisen kapeaksi, siit‰ muuttunut englannin kielen
+e:hen ja siit‰ i:hin, niin lopulta j‰‰ j‰lelle' ‰ ja ˆ, ja niille voi
+rakentaa sen suuren, puhtaan, t‰ysisointuisen n‰ytt‰mˆkielen, joka on
+kaikille malliksi kelpaava. T‰h‰n liitet‰‰n vieraskielisi‰
+konsonantteja ja kieli soi niin ihanasti: b‰b‰, kuten viattomilla
+lampailla, ja: dˆdˆ, kuten viattomilla lapsilla. Ja sivistys ja taide
+on kukoistuksessaan!
+
+Muiden maiden vaakunassa on vaalilause. Min‰ ehdoitan meid‰n
+vaakunamme: "Mit‰ taas teht‰isiin, jotta meist‰ puhuttaisiin?" Se olisi
+sellainen hyv‰ tunnussana meille jokaiselle.
+
+Huomasitko, min‰ sanoin Me?
+
+
+
+
+TAITEILIJAT.
+
+
+Ennen muinoin l‰hetettiin perheen "surunlapset" merille ja he palasivat
+kotia useinkin kunnonmiehin‰, nyt niist‰ tehd‰‰n taiteilijoita ja he
+pysyv‰t ainaisena mieliharmina kotona.
+
+Taide on meill‰ sellainen taikasana, ett‰ vanhemmat ja sisarukset
+uhraavat kaiken turvatakseen tuollaisen taiteilijaepaton el‰m‰n.
+Taiteilijan luonne ilmenee jo varhain. Jos oppilas on koulussa aivan
+mahdoton, veltto ja laiska, niin sanotaan heti: h‰nest‰ tulee
+taiteilija!
+
+Taiteellisuus alkaa nuoressa miehess‰ tavallisesti tukasta, sitten
+ilmestyv‰t erikoiset kaulanauhat, hattu ja lopulta omituinen
+p‰‰llystakki, jos h‰nell‰ on varoja sellaisen hankkimiseen. T‰m‰
+taiteellinen ilmaisumuoto on alkanut hiukan kadota ja sijaan astunut
+t‰ydellinen keikari-asu. Taiteilijat ja puotiherrat kulkevat t‰ss‰
+suhteessa k‰sitysten.
+
+Kun ulkomuoto ja puku on ensin saatu asianomaisella tavalla
+j‰rjestetyksi, alkaa vasta taiteellinen tyˆ, jos sit‰ yleens‰ voi
+tyˆksi kutsuakaan, niin velttoa se on.
+
+Taiteilijoiden suuressa laumassa kulkevat etunen‰ss‰ kirjailijat, nuo
+nuoret runojen ja romaanien sepustajat, jotka matkimisen kautta uskovat
+luovansa jotain suuremmoista. Mit‰ ovat maailman kirjallisuuden suuret
+nerot runoilijoittemme rinnalla -- varjoja vain, arvottomia muussa
+suhteessa kuin siin‰, ett‰ niilt‰ voi varastaa. Kun suuri yleisˆ ei
+mit‰‰n tied‰ eik‰ tunne, niin uskoo se kopiot alkuper‰isiksi. Runoilija
+lˆyt‰‰ ajatuksen, joka tuhansilla on jo ennen h‰nt‰ ollut, h‰n pit‰‰
+siit‰ sellaista h‰lin‰‰ kuin olisi h‰n keksinyt sfinxin salaisuuden. Me
+muistutamme niin usein kanaa, joka lˆydetty‰‰n jyv‰n heti kaakottaa.
+
+Eri kansat kertovat vanhimman historiansa runomuodossa, niin meid‰nkin
+kirjailijamme. Jokainen julkaisee ensiksi runovihkosen, jossa h‰n
+kertoilee kuvitelluista lemmenseikkailuistaan. Ja jokainen tuollainen
+tunnev‰r‰hdys on niin ihmeellisen t‰rke‰. Se on kuvattava ja runo
+painosta julkaistava, jotta ei vain se joutuisi hukkaan.
+
+Me uskallamme niin v‰h‰n kuvata omaa itse‰mme -- emmeh‰n me sit‰
+tunnekaan -- ett‰ koko kirjallisuutemme saa perin ylimalkaisen
+luonteen. Jos me kuvaisimme sit‰, mit‰ me olemme, antaisimme teoksessa
+osan itse‰mme, niin joka toisen julkaistun teoksen nimen‰ olisikin:
+"Epatto!"
+
+Kun Kivi parka kuoli puutteeseen siksi ett‰ h‰nen aikakautensa ei h‰nt‰
+t‰ydellisesti ymm‰rt‰nyt, niin jokainen pikku kirjailija uskoo olevansa
+uusi Kivi siksi, ett‰ h‰nt‰ ei ymm‰rret‰, ja valmistuu mainehikkaasen
+kuolemaan.
+
+Kirjallisessa tyˆss‰ emme v‰lit‰ ammatista emmek‰ ammattitaidosta,
+jotka olisivat saavutettavat, jos aijotaan p‰‰st‰ eteenp‰in. Kaikeksi
+onneksi levitt‰‰ demokratia suojaavat siipens‰ t‰m‰n laiskuuden yli.
+Nyt kun huudetaan jokaisen yksilˆllisest‰ vapaudesta, niin huudetaan,
+ett‰ jokaisen pit‰‰ saada kirjoittaa mit‰ h‰n tahtoo ja miten h‰n
+tahtoo -- se on, niin huonosti kuin h‰n tahtoo. Siten katoo tyyli,
+sill‰ kukaan ei saa kirjoittaa paremmin kuin toinenkaan.
+
+Taatakseen hyv‰t arvostelut kaikille huonoillekin kirjoille ovat meid‰n
+kirjailijamme ryhtyneet arvostelemaan kirjallisuutta. Ja kun hyv‰t
+tuttavat kehuvat teosta, niin t‰ytyyh‰n arvostelun saaneen kirjailijan
+vuorostaan ylist‰‰ toisia. Niin ei hyv‰ sopu mene rikki. T‰ss‰ on
+myˆskin selitys siihen ihmeelliseen seikkaan, ett‰ meill‰ lˆytyy niin
+paljon nerontuotteita kirjallisuudessa.
+
+Meid‰n nuoret maalarimme tuntee v‰rittˆmist‰ naamoista, kummallisista
+kaulanauhoista ja erikoisuutta tavoittelevasta k‰ytˆksest‰. Heid‰n
+mielest‰‰n on Edelfelt liian ulkomaalainen ja hovimainen, GallÈn
+teeskennelty ja. J‰rnefelt mieto. He ajattelevat siten ja sanovat sen
+toisinaan ‰‰neenkin. Ja he matkivat Edelfeltin v‰rej‰, GallÈnin aiheita
+ja J‰rnefeltin tekniikkaa, varastavat aiheensa ja tyˆtapansa, ja
+panevat oppilastˆit‰ n‰ytteille. Kun niit‰ ei voida hyv‰ksy‰, huutavat
+he heille teht‰v‰n v‰‰ryytt‰, saarnaavat sit‰ kaikkialla ja antavat
+pensseliens‰ kuivua. Muutamat naivat rikkaan naisen maksaakseen siten
+velkansa, tai antavat muiden maksaa vekselins‰, matkustelevat paljon
+ulkomailla ja palaavat yh‰ suurempina hoijakkamiehin‰ takaisin.
+
+Kun rahapula tulee, menn‰‰n rikkaan kauppiaan luo, maalataan vekselin
+suoritukseksi h‰nen rouvansa tai itse kauppiaan kuva. Er‰s maalari
+tahtoi oikein t‰ydellisesti osoittaa kiitollisuuttaan maalaamalla
+rikkaan kauppiaan kirjoittamassa nime‰ns‰ vekseliin. Aina vekseli ei
+ole n‰kyviss‰, mutta melkein aina on se kuvan takana, siksi ovatkin
+rahapohattojen muotokuvat niin happamen n‰kˆisi‰.
+
+Meid‰n taiteilijaimme sein‰ll‰ riippuu "huoneentaulu", jossa
+ensim‰isen‰ sanana on: laiskuus! Maalareilla se sana on viimeisen‰kin
+ja v‰lill‰ on kehoitussanoja h‰nelle uskomaan omaan hairahtumattomaan
+kykyyns‰.
+
+Valtio, joka meill‰ niin hell‰sti pit‰‰ huolta kaikista tarpeettomista
+henkilˆist‰, kannattaa oikeata, nuorien maalarien hautomislaitosta.
+T‰ss‰ maassa riitt‰isi tyˆt‰ kymmenelle kelvolliselle maalarille, mutta
+valtio houkuttelee joka vuosi kymmeni‰ nuoria miehi‰ ja naisia
+antautumaan alalle, joka n‰ytt‰‰ niin lupaavalta siksi, ett‰ valtio
+sit‰ kannattaa. Kun nuori maalari on jotain oppinut, ei h‰n opillaan
+ansaitse edes jokap‰iv‰ist‰ leip‰‰ns‰.
+
+El‰‰ksens‰ piirt‰v‰t taiteilijamme kuvia pilalehtiin ja kirjoihin.
+Heid‰n kehnoutensa ilmenee silloin t‰ydellisesti, sill‰ piirustus on
+ontuvaa ja virheellist‰.
+
+Kun sukankudin, koruompelu ynn‰ muut pienemm‰t kotityˆt, kuten
+lastenkasvatus ja ruuanlaitto, ovat naisliikkeen kautta joutuneet
+syrj‰‰n, on maalareiden joukkoon ilmestynyt suuri m‰‰r‰ naisia.
+Taiden‰yttelyiss‰mme on puolet tauluista naisten maalaamia. Tuollainen
+taiteilijatar esiintyy hyvin vapaasti, kampaa tukkansa kaikkien
+vanhojen mestarien taulujen mukaan -- he tutkivat sit‰ varten vanhoja
+mestareita -- oppivat v‰ritt‰m‰‰n kasvonsa ja valmistamaan kummallisia
+pukuja itselleen. Jos he miehen saavat, j‰tt‰v‰t he taiteen
+harjoittamisen kaikessa muussa paitsi oman persoonansa kaunistelussa.
+
+Meid‰n kansamme kuuluu olevan hyvin musikaalinen. Se on aivan totta.
+Kaikki ovat musikaalisia, siksi meill‰ onkin niin v‰h‰n joukosta
+eroavia s‰velt‰ji‰. Jokaisen tosisuomalaisen musikaalisuus on niin
+t‰ydellinen, ettei h‰n k‰y edes konserteissakaan, h‰n laulaa
+kotonaan "Tuulan teit‰" tai "Iloisen lesken" valssia. Suomalainen
+orkesterilainen on jo syntym‰st‰‰n asti t‰ysin valmis. Er‰s vanha
+kapellimestari sanoi: "Mieluummin teen tyˆt‰ kymmenen ruotsalaisen kuin
+yhden norjalaisen kanssa, ja mieluummin kymmenen norjalaisen kuin yhden
+suomalaisen kanssa." Onhan se luonnollista! Kaikki suomalaiset ovat
+ensiluokan mestareita. Ruotsalaisilla on tuo "kuninkaallinen
+kerskailunsa", norjalaisilla "laverteluautuas itsens‰ jumaloiminen",
+meik‰l‰isille ei lˆydy en‰‰ vastaavaa sanaa, he ovat jo niin korkealla.
+
+Me olemme "laulava kansa", varsinkin naiset laulavat. Tuskin miss‰‰n
+maassa lˆytyy v‰kilukuun verrattuna niin paljoa laulajattaria kuin
+meill‰. He kiert‰v‰t ymp‰ri maata Helsingist‰ Rovaniemelle asti. Ja
+jokainen heist‰ on suuri. Jolleiv‰t he laulamalla pysty hankkimaan
+itselleen komeita pukuja ja elatustaan, niin pannaan toimeen
+kerjuulistoja. Kerjuu on kielletty, sit‰ eiv‰t saa harjoittaa muut kuin
+taiteilijat.
+
+Meid‰n s‰velt‰j‰mme ovat hyvin vaatimattomia. Jos joku heist‰ sanoo
+olevansa Suomen Beethoven, niin tekee h‰n sen vain siksi, ett‰
+kansalaiset voisivat keksi‰ h‰nelle viel‰kin suuremman nimen. Sit‰
+odottaessaan h‰n s‰veltelee pieni‰ lauluja. S‰velt‰j‰t haukkuvat
+toisiaan sel‰n takana, he eiv‰t ole viel‰ perustaneet, kuten
+kirjailijat, yhdistyst‰ molemminpuolista ihailua varten.
+
+Kuvanveisto on taide, jossa ainekset ovat tavattoman kalliita, siksi
+meill‰ onkin vain pari kolme kuvanveist‰j‰‰. Kunhan valtio alkaa
+pystytt‰‰ muistopatsaita runsaammin, niin n‰emme kyll‰, miten ilmestyy
+mestareita toinen toistaan suurempia -- ainakin heid‰n omasta
+mielest‰‰n.
+
+Jotta taide p‰‰sisi meill‰ t‰yteen kukoistukseensa, olisi menetelt‰v‰
+seuraavalla tavalla. Valtio, joka muutenkin esiintyy niin
+suurellisesti, rakentaa uuden eduskuntatalon ymp‰rille jalustoita,
+joille pystytet‰‰n edusmiesten kuvapatsaita, niiden taakse
+maalattaisiin sein‰‰n freskomaalaus esitt‰m‰‰n asianomaisen
+yhteiskunnallista tyˆt‰, useimmille sopisi allegoorinen kuva esitt‰en
+lain repimist‰, sill‰ lain laatiminen on eduskunnalle sivuasia. Patsaan
+paljastuksessa esitett‰isiin valtion tilauksesta tehty ja valtion
+palkitsema kantaatti, jonka s‰velt‰j‰mme saisivat s‰velt‰‰. Teatterissa
+pantaisiin toimeen juhlan‰yt‰ntˆ, jolloin esitett‰isiin sopiva
+ulkomaalainen n‰ytelm‰ kuten "Hullunkurinen temppu", "Paljo melua
+tyhj‰st‰." N‰in saisivat kaikki taiteilijat tyˆt‰ ja samalla saisi
+kansa uusia juhlap‰ivi‰. Niit‰h‰n me tarvitsemme. Kun meill‰ ei ole
+ollut kylliksi syntym‰p‰ivi‰, olemme juhlineet kuolinp‰ivi‰kin. N‰in
+t‰m‰ puute poistettaisiin.
+
+Me juhlimme niin mielell‰mme henkilˆit‰, jotka jossain sopivassa
+tilaisuudessa ovat valmiita juhlimaan meit‰. Me kaipaamme suitsutusta
+ja sanomalehtikirjoituksia, onnittelus‰hkˆsanomia ja kukkalaitteita.
+
+Huomasitko, min‰ sanoin Me?
+
+
+
+
+SANOMALEHTIMIEHET.
+
+
+Hulluinhuoneen l‰‰k‰rit ja sanomalehtimiehet kuuluvat nyky‰‰n samaan
+luokkaan. Sen vuoksi kai er‰‰n‰ vuonna m‰‰r‰ttiinkin painoasiain
+puheenjohtajaksi henkilˆ, joka oli ollut Niuvanniemen houruinhuoneessa
+potilaana.
+
+Hulluinhuoneen l‰‰k‰ri hoitaa potilaitaan mukautuen heid‰n
+ajatuksiinsa, hyv‰ksyen heid‰n kaikki houreensa, s‰ilytt‰‰kseen siten
+vallan heid‰n ylitsens‰. Sanomalehtimies kirjoittaa sit‰, mit‰ h‰nen
+potilaansa tahtovat kuulla, jauhavat samaa juttua tuhanteen kertaan,
+jaellen joka p‰iv‰ annoksen politiikkaa, joka n‰kee asiat vain yhdelt‰
+kannalta. He tiet‰v‰t monasti kirjoittavansa vastoin vakaumustansakin,
+mutta, jotta puolue pysyisi koossa, on sille sanottava m‰‰r‰tyt asiat
+m‰‰r‰tyll‰ tavalla.
+
+Kun kaikki tehd‰‰n poliitilliseksi, kaikki asiat ja kaikki henkilˆt,
+poliisit, papit, kirjailijat, niin sanomalehtimies kulkee leimaamassa
+oman puolueensa leimaa potilaihinsa. Ja tuo leima on niin t‰rke‰, ett‰
+ei kysyt‰ ihmisest‰, mihin h‰n kykenee, mit‰ h‰n on, vaan mihin
+puolueeseen h‰n kuuluu. Kaikki on puolueasiata, Maammelaulua lauletaan
+suomettarelaisesti ja nuorsuomalaisesti, teattereissa ja konserteissa
+k‰yd‰‰n puolueen perustuksella, rahakin on vuoroin sit‰ tai t‰t‰,
+riippuen siit‰, miss‰ pankissa vekseli diskontataan.
+
+Jos omaan puolueeseen kuuluva mies hairahtuu, niin se huolellisesti
+peitet‰‰n, ja jollei sit‰ voida tehd‰, niin syytet‰‰n siit‰
+vastapuoluetta. Jos sosialisti kavaltaa h‰nelle uskottuja rahoja, niin
+on h‰n kapitalismin uhri. Jos kapitalisti kavaltaa, niin ovat
+sosialistit rettelˆill‰‰n vieneet h‰net perikatoon. T‰m‰ on niin selv‰
+asia, ett‰ sin‰, lukija, ihmettelet, miksi min‰ siit‰ laisinkaan
+kirjoitan.
+
+Hullut luulevat pelastavansa maailman tai tekev‰ns‰ sen onnelliseksi
+jonkin ihmeellisen keksinnˆn kautta, se on tarttunut meid‰n
+sanomalehtimiehiimmekin. Jos vastapuolue keksii jonkun erikoisen
+tuuman, jonka avulla he voivat kansan "pelastaa", niin sieppaa toinen
+puolue sen tuuman omakseen. Sellaisia keinoja ovat olleet:
+suomalaisuus, laillisuus, raittius, siveys ja kansan sivist‰minen. Jos
+saarnaa suomalaisuutta, niin k‰ytt‰‰ puhekielen‰ ruotsia. Onhan parempi
+suomalainen se ruotsalainen, joka kankeasti puhuu suomea, kuin
+suomalainen joka solkkaa ruotsia. Laillisuutta harrastetaan itse
+kiert‰m‰ll‰ lakia; raittiutta ajetaan puheissa, se unohdetaan juodessa;
+siveytt‰ edistet‰‰n t‰ytt‰m‰ll‰ sanomalehdet rikosten selittelyill‰,
+sill‰ niiden kautta oppii eri tavat ja rikos tulee intressantiksi. Mit‰
+ihminen onkaan valmis tekem‰‰n p‰‰st‰kseen sanomalehden palstoille! Kun
+kansaa k‰sket‰‰n lukemaan m‰‰r‰ttyj‰ kirjoja, kuulemaan luentoja
+aineista, jotka ovat sille h‰m‰ri‰, niin saadaan se uskomaan olevansa
+kaikkein ihmeellisin kansa maailmassa. Oli aika, jolloin kaikki
+puolueet kumarsivat kansaa, joka yksin‰‰n muka voisi pelastaa maan ja
+luoda t‰nne maallisen paratiisin. Kun paratiisi saatiin, niin tuli
+riita omenoista, ja nyt on kansa parka huonossa huudossa.
+
+Miten k‰visik‰‰n t‰m‰n maan, ellei olisi sanomalehtimiehi‰! Me voisimme
+v‰hitellen uskoa, ett‰ mies, jolla on toiset valtiolliset mielipiteet
+kuin meill‰, yht‰kaikki voi olla kunnon mies. Mutta kun tuollainen
+mielipide osoittaisi luonteen heikkoutta, niin yll‰pit‰v‰t
+sanomalehtimiehet sit‰ ajatusta, ett‰ kunkin oman puolueen miehet ovat
+kunnollisia ja muut yhteiskunnan hylkyjoukkoa. Est‰‰kseen oman puolueen
+j‰seni‰ ottamasta itse selv‰‰ vastakkaisista mielipiteist‰ kiellet‰‰n
+lukemasta vastapuolueen lehti‰.
+
+Puoluejako meill‰ on p‰‰asiassa persoonallinen kysymys. Irlannissa oli
+kaksi vimmattua puoluetta, jotka taistelivat pitk‰t ajat. Kukaan ei
+tiet‰nyt alkusyyt‰ puolueihin, vastapuoluetta vihattiin siksi, ett‰ se
+oli vastapuolue. Koko jako oli syntynyt kahden miehen riidelty‰ siit‰,
+mink‰ v‰rinen oli er‰s lehm‰. Miss‰h‰n tuo meid‰n lehm‰mme on, olen
+koettanut etsi‰. Kaikki puolueet huutavat ajavansa kansan parasta,
+tarkoitus on kaikilla sama. Eiv‰tkˆ j‰rjell‰ varustetut ihmiset voi
+p‰‰st‰ selville siit‰, mik‰ tuo "paras" on, vai onko todella tuollainen
+ep‰m‰‰r‰isen v‰rinen lehm‰ siin‰ esteen‰? Sanotaan, ett‰ menneisyys on
+esteen‰. Kuolleet raukat usutetaan siis toisiaan vastaan! Mutta meh‰n
+el‰mme, me, meille kuuluu maailma, siis siit‰ on alettava. Min‰
+unohdin, eih‰n se ole mahdollista, meill‰h‰n on tuo lehm‰. Ovatkohan
+ihmiset koskaan rakastaneet toisiaan niin pienien seikkojen
+perustuksella kuin vihaavat?
+
+Meid‰n aina auliisti auttava kansamme tahtoi kerran turvata
+sanomalehtimiesten asemaa. Pantiin toimeen suuret arpajaiset, kaikki
+puolueet liittyiv‰t yhteen, ruotsalaisen teatterin n‰ytt‰mˆlt‰kin
+kaikui suomenkieli, -- mik‰ ihana sovinnon hetki! -- Ja rahaa tulvi ja
+kansa uhrasi roponsa suureen el‰kekassaan, jonka j‰senin‰ nyt on hyvin
+pieni joukko, niist‰kin monet sellaisia, jotka eiv‰t en‰‰ ole
+sanomalehtialalla, vaan ovat korkeissa viroissa. Mutta mit‰ siit‰,
+kansa uhrasi hyv‰‰ tarkoitusta varten. Ja saimmehan silloin n‰hd‰ sen
+ihmeellisen tapauksen, ett‰ kerrankin kaikkien puolueiden lehdet
+ylistiv‰t samaa asiaa. Kun maan onnea ajettiin vaaliaikana, niin oli
+koko sanomalehdistˆmme cloaca maxima. Panetteluja, solvaisuja,
+h‰v‰istyksi‰, raakuuksia, ja t‰ydelleen tuli todistetuksi vain yksi
+asia, se, ett‰ suomenkielell‰ on rikas sanavarasto. Europan maista on
+maamme ainoa, jossa nainen on tasa-arvoinen miehen kanssa tai oikeammin
+mies naisen kanssa. Miehen, todellisen miehen tunnusmerkit ovat:
+urhoollisuus, suoruus, voima ja hyvyys; meiss‰ on pohjapiirtein‰:
+pelkuruus, valheellisuus, raukkamaisuus ja pahuus. Siis naisen
+ominaisuudet. Ne ominaisuudet tulevat sanomalehtien kautta
+t‰ydellisesti viljellyiksi. Sen vuoksi sanomalehti‰ kai aina
+symboolisesti kuvataankin naisiksi.
+
+Sanomalehtialan kautta p‰‰st‰‰n myˆs valtion korkeimpiin virkoihin. Kun
+tiedot t‰ss‰ maassa ovat sivuasia ja suunsoitto p‰‰ominaisuus, niin
+tulee huomatuksi, jos saa oman sanomalehden saarnaamaan asianomaisen
+hyvi‰ ominaisuuksia. Meill‰ jaetaan virat puolueen mukaan seuraavalla
+tavalla: laskijan paikalle tanssimestari, tiedemiehen paikalle
+sanomalehtimies, ammattilaisen paikalle oppimaton, itsen‰isen paikalle
+pehme‰selk‰inen, k‰skij‰n paikalle palvelija. Sananvapaus on
+haukkumista, kokoontumisvapaus omien etujen onkimista, persoonallinen
+vapaus jokaisen sitomista m‰‰r‰ttyjen puolues‰‰ntˆjen alaiseksi. Lakia
+noudatetaan silloin kun se hyˆdytt‰‰, rikotaan kun se est‰‰ halujamme.
+Ja korkein haluista on valta. Jollei siihen muuten p‰‰se, niin perustaa
+oman sanomalehden, oman puolueen, j‰rjest‰‰ omat l‰hetystˆt, ja silloin
+voi tavoittaa senaattorin salkkua. Onhan se edullisin virka koko
+maassa, pari vuotta toimessa niin saa elinkautisen el‰kkeen.
+
+Sanomalehtimiesten joukossa on erityinen rotujoukko. Ne ovat aivan kuin
+vahtikoiria, joita pidet‰‰n karsinassa ja sielt‰ yllytet‰‰n tarpeen
+tullessa hyˆkk‰‰m‰‰n. N‰m‰t ovat puoluekanslioiden virkamiehi‰, joille
+syˆtet‰‰n sappea ja jotka maksun edest‰ pit‰v‰t pahaa ‰‰nt‰. Ja kuten
+yksi koira saa kaikki muut koirat haukkumaan, niin t‰llainen pomo
+ilmoittaa, milloin ja ket‰ aletaan haukkua r‰tistell‰. Ja sanomalehdet
+vilisev‰t kirjoituksia m‰‰r‰ttyyn suuntaan ja kyl‰koirat ymp‰ri maata
+kuulevat sen ja p‰‰st‰v‰t ˆlin‰n.
+
+Ainoa tapa, jolla voi saada kaikkien puolueiden j‰senet yhtym‰‰n, on
+perustaa yhdistys, joka on salainen. Suomalaisuuden liitto koetti
+yhdist‰‰ ihmisi‰, mutta ep‰onnistui, sill‰ se oli liian julkinen.
+Julkisena se olisi voinut kyll‰ menesty‰, jos sen s‰‰ntˆjen ensi
+pyk‰l‰n‰ olisi ollut "tanssi ja v‰kijuomat." Se oli ihanteellinen
+yhdistys, siksi se heikkeni, sill‰ ihanteellisuutta ei meill‰ ole, ja
+viime vuosikokouksessa ei tiedetty, olivatko edes kaikki haaraosastot
+laisinkaan elossa. Meill‰ on liiaksi paljon julkisia seuroja, salainen
+voi en‰‰ vain innostuttaa, yhdistys, josta ei saisi puhua, jonne
+kokoonnuttaisi salavihkaa ja tuumittaisi, mill‰ taas her‰tett‰isiin
+huomiota.
+
+Siell‰ me viihtyisimme.
+
+Huomasitko, min‰ sanoin Me?
+
+
+
+
+YLIOPPILAAT.
+
+
+Sanotaan, ett‰ ylioppilaat ovat "is‰nmaan toivo." Sill‰ tarkoitetaan,
+ett‰ me toivomme voivamme istuttaa heihin kaikki vikamme saadaksemme ne
+kasvamaan uusia entist‰‰n voimakkaampia vesoja.
+
+Itsen‰iset ihmiset ovat el‰m‰n suola, se runko, jonka ymp‰rille kaikki
+muu kokoontuu. Jos nuoriso tuntisi oman itsen‰isen voimansa, niin voisi
+se kukistaa meid‰t huonot, halpamaiset, itsekk‰‰t, riidanhaluiset,
+siksi on heid‰n kehityst‰‰n ohjattava siihen suuntaan, ett‰ heist‰
+tulee meid‰n k‰tyreit‰mme. T‰m‰ valmistus tapahtuu n‰in: Kun tiedet‰‰n,
+ett‰ ylioppilasnuoriso helposti innostuu -- sill‰ se kaunis ominaisuus
+saadaan nyhdetyksi pois vasta vuosien mukana ja virkojen avulla -- niin
+annetaan sille tilaisuuksia innostumaan. Jos tahdomme kostaa jollekulle
+henkilˆlle, joka persoonallisista tai poliitillisista syist‰
+(politiikka on usein meill‰ aivan persoonallista) on meit‰ loukannut,
+mutta emme itse jaksa tai uskalla sit‰ tehd‰, niin innostuttakaamme
+ylioppilaat. Heh‰n kaipaavat suuria tunteita. Me annamme heille
+sellaisen, vihan, ja selit‰mme sen is‰nmaalliseksi hyveeksi. Se keino
+tepsii aina.
+
+Ylioppilas kaipaa henkilˆ‰, johon h‰n voisi katsoa kuten oppaaseen.
+Meill‰ on kokonainen varasto tuollaisia sankareita. L‰hinn‰ tietysti me
+itse. Me turmelemme suurten miesten maineen muulloin paitsi silloin kun
+he luovat valoaan meihin. Itsemme me asetamme etusijaan.
+
+Ylioppilas ei n‰e puoluerajoja jyrkkin‰, persoonallinen vaikutus
+toisesta henkilˆst‰ toiseen on voimakas, h‰n voisi saada sovinnon
+aikaan ja taistella vastustajansakin kanssa sovussa silloin, kun on
+puollettava jotain yhteist‰ asiaa. Jos niin k‰visi, niin silloinhan me
+joutuisimme turvattomiksi ja kadottaisimme asemamme. Yllytt‰k‰‰mme siis
+ylioppilaita puoluevihaan, sokaiskaamme heid‰t perin pohjin, muuten he
+n‰hdess‰‰n meid‰n riitamme purskahtaisivat nauruun, niin pienist‰
+syist‰ me ottelemme. Viha ja katkeruus syntyy nuorisossa, kun
+vakuutamme, ett‰ meit‰ on vastapuolue sortanut (siksi ett‰ teimme
+tyhmyyksi‰ j‰t‰mme sanomatta), ja ett‰ heid‰n velvollisuutensa on nyt
+kostaa. Voi myˆskin vakuuttaa, ett‰ nuoren miehen is‰ tai iso-is‰ olisi
+kuulunut siihen tai siihen puolueeseen, jos h‰n nyt olisi el‰nyt, siis
+t‰ytyy pojan ja pojanpojan kuulua samaan puolueeseen. T‰ll‰ tavoin
+valmistamme puolustusjoukon itsellemme. P‰‰asia on siin‰, ett‰ me
+taistelussa voitamme, seisomme nurkan takana ja odotamme kunnes nuoret
+sortuvat. Silloin rienn‰mme esiin ja huudamme: voitto! voitto! el‰kˆˆn
+is‰nmaa!
+
+Sielun aateluutta on jokaisella nuorukaisella, h‰n on mahdollinen
+kehittym‰‰n todelliseksi kunnon mieheksi, jos h‰nell‰ edess‰‰n on hyv‰
+esikuva. Me emme tahdo karsia pois vikojamme, siis, selitt‰k‰‰mme
+vikamme ansioiksi ja kasvattakaamme nuoret kaltaisiksemme. N‰in ei
+katoa koskaan se hyv‰ rotu, johon me kuulumme, joka pett‰‰, varastaa,
+tekee v‰‰ryytt‰, sortaa ja solvaisee.
+
+Nuoriso voisi uhrata itsens‰ is‰nmaan puolesta. Me uhraamme is‰nmaan
+oman itsemme t‰hden.
+
+Jos ylioppilas sanoo: min‰ en jaksa aina vihata, minun t‰ytyy saada
+ihaillakin, sill‰ se voima on minun veress‰ni! silloin sanomme: t‰t‰ ja
+t‰t‰ tulee sinun ihailla! Jollei ylioppilas sit‰ voi tehd‰, niin
+sanomme suurella inholla: sin‰ olet is‰nmaan petturi! Suuret sanat ovat
+niin helppoja t‰ss‰ maassa. Jos totta olisi kaikki se, mit‰ ihmiset
+toisistaan sanovat, niin t‰ss‰ maassa ei lˆydy muita kuin is‰nmaan
+pettureita.
+
+Millainen kauhunaika syntyisik‰‰n, jos nuoriso saisi yksin p‰‰tt‰‰
+kaikesta oman selv‰n j‰rkens‰ mukaan. Heill‰ ei olisi menneisyytt‰, ei
+mit‰‰n sen vuoksi vihattavaa, heill‰ olisi vain nykyhetki ja sen suuret
+vaatimukset. Ritarillisuus, oikeudentunto ja kunniantunto saisi p‰‰st‰
+oikeuksiinsa. Ylioppilasnuoriso ei v‰litt‰isi puolueriidoista, sill‰ he
+katsovat eteenp‰in eik‰ taaksep‰in, kieliolot ynn‰ muut riita-asiat
+j‰rjestyisiv‰t itsest‰‰n, sill‰ nuoriso ei sortaisi toisten
+oikeutettuja vaatimuksia, jolleiv‰t he siten menettelisi, eiv‰t he
+olisi nuoria.
+
+Sellainen aika pyyhk‰isisi kerrassaan pois kaikki meid‰n pyrintˆmme,
+siksi varjelkaamme tarkoin ylioppilasnuorison her‰‰m‰st‰
+itsen‰isyyteen. Paras suojakeino meill‰ on vedota politiikkaan. Sen
+laskuun voi panna mit‰ tahansa. Ja kun politiikalla ei ole paljoakaan
+tekemist‰ oikeuden, rehellisyyden ja totuuden kanssa, niin lis‰tk‰‰mme,
+ettei sill‰ ole tekemist‰ j‰rjenk‰‰n kanssa. Sen lauseen me kaikki
+ymm‰rr‰mme, sill‰ me puhumme eniten politiikasta silloin kun me sit‰
+v‰himmin ymm‰rr‰mme.
+
+Kun ylioppilasnuoriso saa k‰rsi‰ meid‰n tyhmyyksiemme puolesta, niin
+kirjoittakaamme kauniita sanomalehtikirjoituksia heid‰n kunniakseen ja
+kutsukaamme heit‰ marttyyreiksi, he pit‰v‰t siit‰ nimest‰.
+
+Ylioppilasnuorisoa k‰ytet‰‰n meill‰ luutana lakaisemassa pois roskia,
+joihin emme uskalla itse kajota. Kai min‰kin kerran joudun -- en
+ansioitteni vaan jonkun sukulais-tuttava-puoluetempun kautta --
+johonkin suureen sivistyslaitokseen johtavaan asemaan. Jos joku
+laitoksen j‰sen solvaa puoluetta, johon min‰ kuulun, tai muuten
+menettelee omaa ja laitoksen arvoa alentavalla tavalla, niin en min‰
+eik‰ h‰nen virkatoverinsa kajoa h‰neen, jotta h‰n ei joskus kostaisi
+minulle, vaan odotan kunnes ylioppilaat panevat mielenosoituksia
+toimeen. Silloin rankaisen ylioppilaita, mutta vakuutan tuolle
+laitoksen j‰senelle, ett‰ maan rauhan t‰hden tulisi h‰nen l‰hte‰ pois.
+Syyllinen v‰istyy syrj‰‰n, kiitt‰‰kin viel‰ minua, Kaikki on silloin
+hyvin.
+
+Tunnen ylioppilaan, joka maaseudulta saapui innostuneena Helsinkiin.
+H‰n puhui is‰nmaasta. Min‰ sanoin, ett‰ on vain puolueita, mutta ei
+is‰nmaata. H‰n tahtoi lueskella aineitaan rakkaudesta tieteeseen. Min‰
+sanoin, ett‰ kaikki on teht‰v‰ vain viran vuoksi, yliopistohan on
+vain haaraosasto senaatista, joka virkoihin asettaa. H‰n uskoi
+suomalaisuuden suureen kehitykseen, min‰ vapautin h‰net siit‰
+hairahduksesta ilmoittamalla, ett‰ on ajateltava pienen ryhm‰n
+kehityst‰.
+
+Kun ylioppilas saapuu Helsinkiin, ei h‰n tied‰, mille alalle h‰n
+antautuisi. H‰n h‰ilyy sinne ja t‰nne ja valitsee lopulta saman alan
+kuin joku l‰heinen toverinsa. Yliopistoluvut ovat tehdyt niin perin
+erill‰‰n oleviksi el‰m‰st‰, ett‰ se, joka astuu yliopistoon el‰m‰n
+keskelt‰, ei tied‰, mihin niist‰ h‰n tarttuisi. Mutta eih‰n se olekaan
+v‰ltt‰m‰tˆnt‰, yliopisto pysyy aina pystyss‰, sill‰ kauppiaat,
+virkamiehet y.m. henkilˆt lahjoittavat sille suuria summia. Yliopisto
+omistaa 8 miljoonaa, saa joka vuosi valtiolta suuret summat ja pystyy
+siis jatkamaan olemassa oloaan.
+
+Monet laitokset meill‰ kaipaavat uudistusta, yliopisto ei, sill‰ se on
+saavuttanut t‰ydellisyyden, onhan se kaikin puolin juuri sellainen kuin
+t‰m‰ maa tarvitsee. Yliopisto on n.s. "sivistyslaitos kansallisella
+pohjalla", toisin sanoen ruotsinkielinen opisto suomenkieliselle
+enemmistˆlle valesivistyksen saavuttamiseksi. Se opettaa panemaan
+p‰‰painon sivuseikoille, sill‰ niiden kautta saavutetaan hyvinvointi
+el‰m‰ss‰. Opinnot ovat sivuasia, tutkinnot p‰‰asia. Harrastaa tiedett‰
+on j‰rjetˆnt‰, harrastaa arvosanoja korkein viisaus. T‰m‰n vuoksi on
+tarkoin opittava pett‰m‰‰n professoreja, opittava n‰ytt‰ytym‰‰n
+viisaammilta kuin ollaankaan. Se taito on helposti saavutettu, sill‰
+professorit ovat itsekin kiintyneet eniten muuhun kuin omaan alaansa.
+Noudattamalla heid‰n esimerkki‰‰n on suuresti harrastettava
+politiikkaa, sill‰ sen kautta saavuttaa kuuluisan nimen.
+
+Jos jatkaa lukuja yliopistossa, on se teht‰v‰ ainoastaan niill‰
+aloilla, joilla professorin asema on parempi kuin muut samaan alaan
+kuuluvat virat. Tyhm‰ on se mies, joka j‰‰ professoriksi
+oikeustieteess‰, kun sill‰ alalla muualla saa paremmat tulot. T‰m‰n
+ovatkin kaikki oikein huomanneet, yliopistossa oli ‰skett‰in kuusi
+lakitieteen opettajan virkaa avoinna.
+
+Yliopisto on meill‰ laitos ihmisen kaavamaiseksi tekemist‰ varten,
+kaikki koulut johtavat siihen, ja yliopisto johtaa kaikkiin valtion
+virkoihin. N‰in on saatu punainen lanka kulkemaan maan l‰pi, siihen
+pujotetaan ihmissielut ja lankaa pingoittaa toisesta p‰‰st‰ tyhmyys ja
+pelkuruus, toisesta p‰‰st‰ matelevaisuus ja itsekk‰isyys. Ne jotka
+eiv‰t tyydy olemaan langassa, karkoitetaan ja ovat turvattomia
+el‰m‰ss‰. Me kaikki pyrimme sen vuoksi kannattamaan j‰rjestelm‰‰, joka
+takaa meille leiv‰n, palkan, el‰kkeen ja hautajaiset monien seppeleiden
+kanssa.
+
+Huomasitko, min‰ sanoin Me?
+
+
+
+
+PYHIMYKSET JA MARTTYYRIT.
+
+
+Pyhimyksi‰ on kahdenlaisia, kuolleita ja el‰vi‰. Kuolleita muistetaan
+juhlimalla heid‰n syntym‰p‰ivi‰‰n, el‰vi‰ pit‰m‰ll‰ pitoja heille
+heid‰n syntym‰p‰ivin‰‰n.
+
+Marttyyrej‰ on kahdenlaisia, kuolleita ja el‰vi‰. Kuolleita ei kukaan
+muista, el‰vi‰ juhlitaan aina ja jokapaikassa.
+
+Meid‰n paras kunnianosoituksemme toiselle on ruoka. Me syˆmme aina
+toistemme kunniaksi.
+
+Pyhimyksi‰ ja marttyyrej‰ juhlitaan samalla tapaa. N‰in: juhlap‰iv‰n‰
+saapuvat ensin laulukunnat serenaadille. He aloittavat laululla: Sua
+tervehdin! Laulu on kirjoitettu naisia varten, mutta meill‰ sen saavat
+miehet osakseen, ehk‰ siksi ett‰ me kaikki olemme niin hempe‰mielisi‰.
+Sen j‰lkeen lauletaan: "Ah, pois sa mielit, kulta!" Saksan keisari
+suuttui hovikamarillan h‰nelle antamasta nimest‰: Liebchen (kulta).
+Mit‰ h‰n sanoisikaan, jos olisi Suomessa! Meill‰ on laulu aina
+rakkauden tunnustus. Lopuksi lauletaan aina joku is‰nmaallinen laulu.
+Kun se on tehty, alkaa kukkien ojennus. Meill‰ annetaan kaikille
+huomattaville miehille ulkomailta tuotettuja ja rautalankoihin
+sidottuja kukkia. Luultavasti puutarhurien keksim‰ kunnianosoitus.
+Laakereita annettiin t‰h‰n asti yksinomaan taiteilijoille, mutta nyt on
+‰skett‰in er‰s valtiomieskin saanut laakeriseppeleen. Uusi hullutus on
+keksitty ja nyt se siis tulee jokaisen huomattavan henkilˆn osaksi.
+Kukkien ohella saapuu s‰hkˆsanomia. Niiden l‰hett‰minen on oikea
+kulkutauti. "Juhlivat kansalaiset" l‰hett‰v‰t niit‰ maan joka ‰‰rest‰.
+Illalla syˆd‰‰n sitten asianomaisen kunniaksi. Seuraavana p‰iv‰n‰ on
+h‰n unohdettu.
+
+Pyhimyksiksi ja marttyyreiksi tehd‰‰n ihmisi‰ melkein samalla tavalla.
+N‰in: Ensin pidet‰‰n asianomaiselle vihellys-serenaadi. Joukko on aina
+silloin taajalukuisempi kuin laulaessa. H‰nelle l‰hetet‰‰n asuntoon
+kaikkia h‰v‰istysesineit‰ ruumisarkusta pommeihin asti. Nimettˆmien
+kirjeiden avulla vaaditaan h‰nt‰ poistumaan. "Suuttuneet kansalaiset"
+l‰hett‰v‰t maan eri ‰‰rist‰ s‰hkˆsanomia, jotka ovat sit‰ ‰k‰isempi‰,
+jota kauvempaa ne tulevat.
+
+Kunnianosoitusten etunen‰ss‰ ovat usein ne, jotka tahtovat
+asianomaisten huomaavan heid‰t. Pari p‰iv‰‰ juhlan j‰lkeen voi menn‰
+juhla-esineen luo ja pyyt‰‰ jotain virkaa, joka on h‰nen annettavanaan.
+H‰v‰istysten etunen‰ss‰ on myˆskin henkilˆit‰, jotka haluavat itselleen
+etuja. Er‰s ylioppilas suoritti paraillaan tutkintoja, h‰n ei m‰‰r‰ajan
+sis‰ll‰ olisi voinut valmistua. Samaan aikaan vihellettiin er‰‰lle
+yliopiston professorille. Ylioppilas meni ilmoittamaan ottaneensa osaa
+siihen, jotta tulisi joksikin ajaksi karkoitetuksi yliopistosta
+saadakseen siten lis‰‰ aikaa lukujaan varten. H‰n sai vain varoituksen.
+Sill‰ kertaa h‰n ei onnistunut, mutta paljon on niit‰, jotka siten
+p‰‰sev‰t eteenp‰in maailmassa.
+
+Me tarvitsemme pyhimyksi‰. Emme siksi, ett‰ uskoisimme heihin, ett‰
+todella kunnioittaisimme heit‰, siksi kateellisia me olemme, mutta
+heit‰ voi k‰ytt‰‰ turvakilpen‰, suojana, puolustuksena omille
+heikkouksillemme. Ja kuten raamatusta lˆyt‰‰ puolustuksen mille asialle
+tahansa, niin lˆyt‰‰ sen suurten miesten el‰m‰kerrastakin ja heid‰n
+teoksistaan. Sen vuoksi me ihailemme suurmiehi‰mme.
+
+Toisten marttyyri on toisten pyhimys, usein me panemme miehen
+tahallamme vaaran alaiseksi saadaksemme siten uuden pyhimyksen.
+
+Jos pyhimyksist‰ tulee kova puute, valmistamme niit‰. Aineksia lˆytyy
+aina. Meiss‰ itsess‰mme. T‰m‰ pyhimykseksi, julistus tapahtuu
+sanomalehdiss‰, jotka siin‰ suhteessa korvaavat entisajan paavien
+bullat.
+
+Pyhimyksiksi joutuvat nyky‰‰n juristit (varsinkin ne joilla on
+raamatulliset etunimet), n‰yttelij‰t, laulajattaret, senaattorit,
+hovioikeuden j‰senet, opettajat, professorit, sanomalehtimiehet. Toiset
+heit‰ jumaloivat, toiset halveksivat.
+
+Jota suurempaa melua pit‰‰ itse itsest‰‰n, sit‰ helpompi on p‰‰st‰
+pyhimykseksi. Kun me viel‰ odotamme vuosia, niin koko maamme on tullut
+t‰yteen pyhimyksi‰ ja marttyyrej‰. Me olemme muodostaneet suuren
+yhteiskunnan toistemme ihailemista varten.
+
+Huomasitko, min‰ sanoin Me?
+
+
+
+
+ELƒTIT.
+
+
+Jos meill‰ ennen mies nautti valtion el‰kett‰, niin oli se h‰nelle
+tunnustus miehen hedelm‰rikkaasta tyˆst‰ koko maan hyv‰ksi. Jokainen
+kumarsi syvemp‰‰n sille miehelle. Jos olisi tahtonut luetella
+arvokkaimmat miehemme, niin olisi painattanut valtion el‰kelistan.
+
+Mutta nyt!
+
+Jos joku sanomalehti julkaisisi sen peloittavan pitk‰n luettelon, jossa
+el‰kkeiden ja ylim‰‰r‰isten korvausten saajien nimet olisivat, niin
+syntyisi yksi ainoa kysymys: miksi?
+
+Ja mist‰ nuo monet el‰kkeet ovat tulleet? Siit‰, ett‰ mies on
+taistellut vakaumuksensa puolesta ja siin‰ taistelussa sortunut. Mutta
+onko vakaumus vakaumusta, jos se vaatii itselleen korvausta? Mik‰ ero
+on miehen v‰lill‰, joka myy vakaumuksensa, ja miehen, joka ottaa siit‰
+j‰lest‰p‰in korvauksen?
+
+Jeesus n‰ytti, miten vakaumuksen mukaan elet‰‰n. Mink‰ houkuttelevan
+maineen keinon h‰n antoikaan meille marttyyriudellaan. Nyt pyrimme me
+kaikki siihen! Mutta kun tahdotaan vapautua tuskasta, niin risti on
+usein mukavan virkatuolin n‰kˆinen. Kun marttyyri otetaan siit‰ alas,
+niin p‰‰see h‰n pehmoiselle patjalle lep‰‰m‰‰n. Me olemme saaneet n‰hd‰
+marttyyrin ja me maksamme h‰nelle siit‰ palkan. Onhan meid‰n
+n‰yttelemishalumme ja teatraalisuuden ihailu tyydytetty. Muuta ei
+tarvita.
+
+Eduskunta, siis kansa, senaatti, sanomalehdistˆ ovat antaneet
+siunauksensa, siis t‰yden moraalisen tuen niille teoille, joista
+saadaan el‰ke. Nyt tied‰n siis miten menettelen! K‰velin rannalla,
+kuulin avunhuutoja, er‰s mies oli pudonnut j‰ihin. Sis‰llinen ‰‰ni
+minussa sanoi, ett‰ minun velvollisuuteni oli auttaa toista ihmist‰
+hengenh‰d‰ss‰. Se oli pyh‰ vakaumukseni. Min‰ autoin h‰net ylˆs.
+Rannalla ei ollut ket‰‰n, jolle olisin voinut tekoani ylist‰‰, sill‰
+suomalaisena olisi se ollut minun velvollisuuteni. Min‰ sain olla
+tyytyv‰inen oman itseni kanssa siihen, ett‰ olin toiminut sis‰llisest‰
+vakaumuksesta. Mutta t‰m‰ uusi moraali johtui seuraavana p‰iv‰n‰
+mieleeni. Min‰ menin pelastetun luo, vaadin korvausta, sill‰ olinhan
+min‰ pannut oman henkeni vaaraan pelastaessani h‰net. H‰n oli
+pakoitettu antamaan minulle suuren el‰kkeen. H‰n voi sen kyll‰ maksaa,
+mutta miten h‰n el‰tt‰‰ lapsensa, sit‰ en tied‰. Se ei kuulu minuun,
+min‰ olen menetellyt aivan oikein, ensin toiminut vakaumuksesta ja
+sitten ottanut siit‰ maksun. Jos tuo olento olisi ollut Suomi-‰iti,
+niin mink‰h‰n palkan olisinkaan pyyt‰nyt.
+
+Tee sin‰, lukija, samoin!
+
+Olkaamme tarkoin varuillamme, ettei vain ilmesty miehi‰, jotka uhraavat
+kaikki ajamalleen asialle, n‰kev‰t puutetta ja h‰t‰‰. Sellaisia
+esimerkki‰ on n‰hty ennen, ja joku hullu voi noudattaa niit‰. H‰n
+pyrkisi siten suureksi mieheksi v‰‰r‰ll‰ tavalla. Alas sellaiset,
+kaikella muotoa alas, ne turmelevat meid‰n moraalimme!
+
+Meid‰n t‰ytyy kaikin keinoin p‰‰st‰ el‰tiksi. Kun itse kokoo tielleen
+esteit‰, niin paljon kuin mahdollista, ja itse niist‰ puhuu
+mahdollisimman paljon, ja kun ne sitten h‰vitt‰‰, niin voi sanoa
+ylpeydell‰: min‰ olen toteuttanut suurimman moraalisen lauseen "itsens‰
+voittaminen on suurin voitto!"
+
+Teatterikahakka ja siit‰ saatu el‰ke, se olkoon meid‰n ihanteemme;
+ennen kaikkea varokaamme, ettemme joudu taistelemaan el‰m‰st‰ ja
+kuolemasta oikealla taistelutantereella. Sata vuotta sitten
+uskallettiin tehd‰ sellaista, olkoon se meille peloittavana esimerkkin‰
+siit‰, mihin innostus vie. Miksi uhraisimme kaiken pienen ihanteen
+t‰hden? Silloin voisi kuolla tuntemattomana.
+
+Mutta saada elinkautinen palkka itsekk‰‰st‰ tyˆst‰, joka on kest‰nyt
+lyhyen ajan ja jota seuraa vuosikausia kest‰v‰ laiskuus, se on
+kansallista, tosisuomalaista, siihen me kaikki pyrkik‰‰mme.
+
+Huomasitko, min‰ sanoin Me?
+
+    "Toiset minua kiitt‰v‰t, toiset moittivat, min‰ teen
+    pilkkaa tyhmist‰ ja uhmailen pahamielisi‰, ja rienn‰n
+    nauramaan kaikelle... pel‰ten muuten t‰ytyv‰ni
+    kaikelle itke‰."
+
+             Figaro, Beaumarchais'in n‰ytelm‰ss‰ "Figaron h‰‰t."
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Me, by Jalmari Finne
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ME ***
+
+***** This file should be named 62556-8.txt or 62556-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/2/5/5/62556/
+
+Produced by Tapio Riikonen
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
