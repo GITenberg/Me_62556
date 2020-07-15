@@ -1,0 +1,28 @@
+_repo: Me_62556
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Finne, Jalmari
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '43291'
+    url: http://www.gutenberg.org/2009/agents/43291
+    wikipedia: https://fi.wikipedia.org/wiki/Jalmari_Finne
+description: ''
+gutenberg_issued: '2020-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62556'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish literature'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Lukijat -- Arvostelijat -- Sivistyneet -- Siveelliset -- Näyttelijät
+  -- Taiteilijat -- Sanomalehtimiehet -- Ylioppilaat -- Pyhimykset ja marttyyrit --
+  Elätit.
+title: Me
+url: http://www.gutenberg.org/ebooks/62556
